@@ -67,4 +67,5 @@ class TranscriptAnalysisResponse(BaseModel):
     skill_scores: Optional[Dict[str, List[SkillScore]]] = None
     job_recommendations: Optional[List[JobMatch]] = None
     top_skills: Optional[List[SkillScore]] = None
+    unmatched_courses: Optional[List[CourseInfo]] = None
     summary: Optional[Dict] = None

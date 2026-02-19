@@ -323,6 +323,7 @@ class TranscriptAnalyzer:
         """
         hard_skills: Dict[str, Dict] = {}
         soft_skills: Dict[str, Dict] = {}
+        unmatched_courses = []
 
         for course in courses:
             grade_score = self.GRADE_SCORES.get(course.grade)
@@ -331,6 +332,12 @@ class TranscriptAnalyzer:
 
             subject = self.find_subject_in_kmitl_data(course.course_code, course.course_name)
             if not subject:
+                unmatched_courses.append({
+                    "course_code": course.course_code,
+                    "course_name": course.course_name,
+                    "credits": course.credits,
+                    "grade": course.grade
+                })
                 continue
 
             for skill_info in subject.get("hard_skills", []):
@@ -400,7 +407,7 @@ class TranscriptAnalyzer:
             data["level_description_en"] = level_info.get("description_en", "")
             data["level_description_th"] = level_info.get("description_th", "")
 
-        return {"hard_skills": hard_skills, "soft_skills": soft_skills}
+        return {"hard_skills": hard_skills, "soft_skills": soft_skills, "unmatched_courses": unmatched_courses}
 
     def _percentage_to_level(self, percentage: float) -> int:
         """Convert percentage score to skill level 1-5"""
@@ -605,6 +612,7 @@ class TranscriptAnalyzer:
                 },
                 "job_recommendations": job_recommendations[:10],
                 "top_skills": top_skills,
+                "unmatched_courses": skill_scores["unmatched_courses"],
                 "summary": {
                     "total_courses": len(courses),
                     "total_credits": student_info.total_credits,
