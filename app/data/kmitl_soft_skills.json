@@ -1,0 +1,1301 @@
+{
+  "metadata": {
+    "source": "https://skill-mapping-hasura.aegis.aginix.tech/v1/graphql",
+    "curriculum_id": "01007",
+    "total_skills": 11,
+    "crawled_at": "2026-02-20T02:50:19.632559"
+  },
+  "soft_skills": [
+    {
+      "id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+      "name_en": "Active Learning & Learning Strategies",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 1
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 3
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 2
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 2
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 1
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 1
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 2
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 1
+        },
+        {
+          "job_id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+          "job_name_en": "UX/UI Designer",
+          "job_name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 16,
+        "total_subjects": 1
+      }
+    },
+    {
+      "id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+      "name_en": "Analytical & Critical Thinking",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 3
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 3
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 3
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 3
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 1
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 3
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 2
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 1
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 3
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 1
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 3
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 14,
+        "total_subjects": 1
+      }
+    },
+    {
+      "id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+      "name_en": "Communication",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 3
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 3
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 3
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 3
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 3
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 3
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 3
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 3
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 3
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 2
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 3
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 3
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 3
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 3
+        },
+        {
+          "job_id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+          "job_name_en": "UX/UI Designer",
+          "job_name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+          "required_level": 3
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 19,
+        "total_subjects": 1
+      }
+    },
+    {
+      "id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+      "name_en": "Complex problem solving",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 2
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 3
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 3
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 3
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 3
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 1
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 2
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 1
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 3
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 3
+        },
+        {
+          "subject_id": "9903597b-b3d4-4d7e-8081-ce01c71da27b",
+          "subject_code": "01076032",
+          "subject_name_en": "ELEMENTARY DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA",
+          "subject_name_th": "สมการอนุพันธ์และพีชคณิตเชิงเส้นพื้นฐาน",
+          "level": 3
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 18,
+        "total_subjects": 2
+      }
+    },
+    {
+      "id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+      "name_en": "Creativity",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 2
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 1
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 2
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 2
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 2
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 1
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 1
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 1
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 1
+        },
+        {
+          "job_id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+          "job_name_en": "UX/UI Designer",
+          "job_name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+          "required_level": 3
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 3
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 15,
+        "total_subjects": 1
+      }
+    },
+    {
+      "id": "80f8f9bd-fd02-449f-b0f8-bfb44efa7416",
+      "name_en": "Digital quotience literacy & Digital media Production",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 1
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 1,
+        "total_subjects": 1
+      }
+    },
+    {
+      "id": "30049be3-3bbf-4ff4-83f6-51ec4884fc7c",
+      "name_en": "Entrepreneurship & Startup",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 0,
+        "total_subjects": 1
+      }
+    },
+    {
+      "id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+      "name_en": "Integrity & Perserverance",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 2
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 2
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 2
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 2
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 3
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 2
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 1
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 2
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        },
+        {
+          "job_id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+          "job_name_en": "UX/UI Designer",
+          "job_name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "926bc8f4-de49-459d-a745-c9779206c24c",
+          "subject_code": "01076031",
+          "subject_name_en": "CALCULUS",
+          "subject_name_th": "แคลคูลัส",
+          "level": 3
+        },
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 3
+        },
+        {
+          "subject_id": "9903597b-b3d4-4d7e-8081-ce01c71da27b",
+          "subject_code": "01076032",
+          "subject_name_en": "ELEMENTARY DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA",
+          "subject_name_th": "สมการอนุพันธ์และพีชคณิตเชิงเส้นพื้นฐาน",
+          "level": 3
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 18,
+        "total_subjects": 3
+      }
+    },
+    {
+      "id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+      "name_en": "Interpersonal Skills",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 1
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 2
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 2
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 1
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 3
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 1
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 2
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 2
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 1
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        },
+        {
+          "job_id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+          "job_name_en": "UX/UI Designer",
+          "job_name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 3
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 19,
+        "total_subjects": 1
+      }
+    },
+    {
+      "id": "68c254fb-6064-40f3-a96b-b56a86547bbc",
+      "name_en": "Leadership & Social Influence",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 1
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 1
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 5,
+        "total_subjects": 1
+      }
+    },
+    {
+      "id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+      "name_en": "Resilience, Stress tolerance & Flexibility",
+      "name_th": null,
+      "description_en": "",
+      "description_th": "",
+      "levels": {
+        "1": {
+          "description_en": "Basic",
+          "description_th": "ระดับพื้นฐาน"
+        },
+        "2": {
+          "description_en": "Intermediate",
+          "description_th": "ระดับกลาง"
+        },
+        "3": {
+          "description_en": "Advanced",
+          "description_th": "ระดับสูง"
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 2
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 2
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 2
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 2
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 2
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 2
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 1
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 2
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        },
+        {
+          "job_id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+          "job_name_en": "UX/UI Designer",
+          "job_name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 3,
+        "total_jobs": 19,
+        "total_subjects": 1
+      }
+    }
+  ]
+}

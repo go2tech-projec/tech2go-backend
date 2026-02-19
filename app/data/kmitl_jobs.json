@@ -1,0 +1,2716 @@
+{
+  "metadata": {
+    "source": "https://skill-mapping-hasura.aegis.aginix.tech/v1/graphql",
+    "curriculum_id": "01007",
+    "total_jobs": 19,
+    "crawled_at": "2026-02-20T02:50:18.699615"
+  },
+  "jobs": [
+    {
+      "id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+      "name_en": "Back-End  Developer",
+      "name_th": "นักพัฒนาแบ็กเอนด์",
+      "duties_en": [
+        "- Building and maintaining web applications",
+        "- Assessing the efficiency and speed of current applications",
+        "- Writing high-quality code",
+        "- Managing hosting environments",
+        "- QA testing",
+        "- Troubleshooting and debugging",
+        "- Keeping on top of new technologies"
+      ],
+      "duties_th": [
+        "- พัฒนา web-applications",
+        "- ประเมิณประสิทธิภาพของระบบ",
+        "- เขียนโค้ดอย่างมีคุณภาพ",
+        "- จัดการenvironmentในการพัฒนาระบบ",
+        "- ทดสอบและวัดประสิทธิภาพของระบบ",
+        "- หาสาเหตุหรือต้นตอของปัญหา",
+        "- สนใจและศึกษาเทคโนโลยีใหม่ ๆ"
+      ],
+      "job_group": {
+        "id": "45fe87e9-8719-4b51-a7c4-296241437642",
+        "name_en": "Software and Applications",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 2
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 4
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 3
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 3
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+      "name_en": "Data Analytic",
+      "name_th": "นักวิเคราะห์ข้อมูล",
+      "duties_en": [
+        "- Interpret data, analyze results using statistical techniques and provide ongoing reports",
+        "- Develop and implement databases, data collection systems, data analytics, and other strategies that optimize statistical efficiency and quality",
+        "- Identify, analyze, and interpret trends or patterns in complex data sets",
+        "- Filter and “clean” data by reviewing computer reports, printouts, and performance indicators to locate and correct code problems",
+        "- Work with management to prioritize business and information needs",
+        "- Locate and define new process improvement opportunities"
+      ],
+      "duties_th": [
+        "- ตีความข้อมูล วิเคราะห์ผลลัพธ์โดยใช้เทคนิคทางสถิติและจัดทำรายงานต่อเนื่อง",
+        "- พัฒนาและใช้งานฐานข้อมูล ระบบการเก็บรวบรวมข้อมูล การวิเคราะห์ข้อมูล และกลยุทธ์อื่นๆ ที่ปรับประสิทธิภาพและคุณภาพทางสถิติให้เหมาะสมที่สุด",
+        "- ระบุ วิเคราะห์ และตีความแนวโน้มหรือรูปแบบในชุดข้อมูลที่ซับซ้อน",
+        "- กรองและ \"ล้าง\" ข้อมูลโดยตรวจสอบรายงานคอมพิวเตอร์ ผลงานพิมพ์ และตัวบ่งชี้ประสิทธิภาพเพื่อค้นหาและแก้ไขปัญหารหัส",
+        "- ทำงานร่วมกับผู้บริหารเพื่อจัดลำดับความสำคัญของธุรกิจและข้อมูลที่ต้องการ",
+        "- ค้นหาและกำหนดโอกาสในการปรับปรุงกระบวนการใหม่"
+      ],
+      "job_group": {
+        "id": "6d2125d8-e2e8-4103-98ec-ad4b9bbfefc5",
+        "name_en": "Digital and Data Analytics",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "bc904eb6-de5c-44c3-81db-48689de7787c",
+        "name_en": "FINANCIAL SERVICES",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 2
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 3
+        },
+        {
+          "skill_id": "15ed36da-e035-44d6-9c5d-892eb87c59cd",
+          "skill_name_en": "Data Analysis",
+          "skill_name_th": "การวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "428a302e-3461-4660-850d-08c0c94869dc",
+      "name_en": "Data Engineer",
+      "name_th": "วิศวกรข้อมูล",
+      "duties_en": [
+        "- Analyze and organize raw data",
+        "- Build data systems and pipelines",
+        "- Evaluate business needs and objectives",
+        "- Interpret trends and patterns",
+        "- Conduct complex data analysis and report on results",
+        "- Build algorithms and prototypes",
+        "- Combine raw information from different sources",
+        "- Explore ways to enhance data quality and reliability",
+        "- Develop analytical tools and programs"
+      ],
+      "duties_th": [
+        "- วิเคราะห์และจัดระเบียบข้อมูลดิบ",
+        "- สร้างระบบข้อมูลและไปป์ไลน์",
+        "- ประเมินความต้องการและวัตถุประสงค์ทางธุรกิจ",
+        "- ตีความแนวโน้มและรูปแบบของข้อมูล",
+        "- ดำเนินการวิเคราะห์ข้อมูลที่ซับซ้อนและรายงานผล",
+        "- สร้างอัลกอริธึมและต้นแบบ",
+        "- รวมข้อมูลดิบจากแหล่งต่างๆ",
+        "- สำรวจวิธีการปรับปรุงคุณภาพข้อมูลและความน่าเชื่อถือ",
+        "- พัฒนาเครื่องมือและโปรแกรมวิเคราะห์"
+      ],
+      "job_group": {
+        "id": "62e6b698-f66c-4e82-a63b-e51db7658d89",
+        "name_en": "Optimization and Data Science",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "8b8bf0d7-2150-4295-9808-f893393c6498",
+        "name_en": "ENGINEERING",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 2
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "15ed36da-e035-44d6-9c5d-892eb87c59cd",
+          "skill_name_en": "Data Analysis",
+          "skill_name_th": "การวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "80f8f9bd-fd02-449f-b0f8-bfb44efa7416",
+          "skill_name_en": "Digital quotience literacy & Digital media Production",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+      "name_en": "Database Admin",
+      "name_th": "ผู้ดูแลฐานข้อมูล",
+      "duties_en": [
+        "- Identifying who has access to the database",
+        "- Helping build the structure and design of the database",
+        "- Implementing security measures for the data",
+        "- Restoring lost data",
+        "- Building test versions and testing for bugs",
+        "- Merging databases when necessary",
+        "- Updating systems when necessary and creating data backups",
+        "- Continually monitoring database systems"
+      ],
+      "duties_th": [
+        "- จัดการการเข้าใช้งานฐานข้อมูลแต่ละผู้ใช้",
+        "- ออกแบบโครงสร้างและฐานข้อมูล",
+        "- มีมาตรฐานในการรักษาข้อมูล",
+        "- กู้คืนข้อมูล",
+        "- มี version control เพื่อหาข้อบกพร่อง",
+        "- รวมฐานข้อมูลเมื่อจำเป็น",
+        "- ปรับปรุงและอัพเดทระบบ เมื่อจำเป็น รวมไปถึงการสำรองฐานข้อมูล",
+        "- ตรวจสอบฐานข้อมูลอย่างสม่ำเสมอ"
+      ],
+      "job_group": {
+        "id": "159fcf64-ba00-4e92-8524-cdecff17645d",
+        "name_en": "IT Storage and Data",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 2
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 3
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 1
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+      "name_en": "Desktop Application Developer",
+      "name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+      "duties_en": [
+        "- Design",
+        "- Develop",
+        "- Document",
+        "- Maintenance"
+      ],
+      "duties_th": [
+        "- ออกแบบระบบ",
+        "- พัฒนาระบบ",
+        "- เอกสารการใช้งาน",
+        "- พัฒนาปรับปรุงระบบ"
+      ],
+      "job_group": {
+        "id": "45fe87e9-8719-4b51-a7c4-296241437642",
+        "name_en": "Software and Applications",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 2
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 5
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 3
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 3
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 2
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+      "name_en": "DevOps Engineer",
+      "name_th": "วิศวกรเดฟออปส์",
+      "duties_en": [
+        "- Implementing, maintaining, monitoring, and supporting the IT infrastructure.",
+        "- Investigating and resolving technical issues by deploying updates/ fixes.",
+        "- Implementing automation tools and frameworks for automatic code deployment (CI/CD).",
+        "- Quality control and management of the codebase."
+      ],
+      "duties_th": [
+        "พัฒนารูปแบบวิธีการปฏิบัติและกระบวนการต่าง ๆ ระหว่างทีมพัฒนา ทีมทดสอบ และทีมดูแลการให้บริการ เพื่อเพิ่มประสิทธิภาพในการทำงานให้องค์กรสามารถผลิตซอฟต์แวร์ออกสู่ตลาดได้รวดเร็วขึ้น มีคุณภาพและเสถียรภาพมากขึ้น"
+      ],
+      "job_group": {
+        "id": "150008be-1fc0-4d71-a286-7cf58133eefb",
+        "name_en": "DevOps and Cloud Technology",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 3
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 3
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 3
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+      "name_en": "Embedded System Engineer",
+      "name_th": "วิศวกรระบบฝังตัว",
+      "duties_en": [
+        "- Design, prototype and verify systems for various embedded applications.",
+        "- Develop and maintain firmware for embedded platforms.",
+        "- Create and manage documentation for active projects.",
+        "- Interact with clients and help with the development of customized embedded solutions.",
+        "- Test and debug embedded software and applications.",
+        "- Develop hardware and software specifications.",
+        "- Develop tools and techniques for testing and verification."
+      ],
+      "duties_th": [
+        "- ออกแบบ สร้างต้นแบบ และตรวจสอบระบบสำหรับแอพพลิเคชั่นระบบฝังตัวต่างๆ",
+        "- พัฒนาและบำรุงรักษาเฟิร์มแวร์สำหรับแพลตฟอร์มระบบฝังตัว",
+        "- สร้างและจัดการเอกสารสำหรับโครงการที่ใช้งานอยู่",
+        "- สื่อสารกับลูกค้าและช่วยในการพัฒนาโซลูชันระบบฝังตัวแบบปรับปรุงโดยเฉพาะ",
+        "- ทดสอบและแก้ไขข้อบกพร่องของซอฟต์แวร์และแอปพลิเคชันบนอุปกรณ์ระบบฝังตัว",
+        "- พัฒนาข้อกำหนดฮาร์ดแวร์และซอฟต์แวร์",
+        "- พัฒนาเครื่องมือและเทคนิคในการทดสอบและตรวจสอบ"
+      ],
+      "job_group": {
+        "id": "fe8d44e9-2881-4f09-ad6e-81133dbbc9a7",
+        "name_en": "Technical and Engineering",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "907363cc-2e30-4a1f-a344-b5d371c6f2b9",
+        "name_en": "ELECTRONICS",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 2
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 4
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "15ed36da-e035-44d6-9c5d-892eb87c59cd",
+          "skill_name_en": "Data Analysis",
+          "skill_name_th": "การวิเคราะห์ข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "ca62a4fb-de58-4b25-8cb4-80de3b091460",
+          "skill_name_en": "Microcontroller",
+          "skill_name_th": "ความรู้เกี่ยวกับไมโครคอนโทรลเลอร์",
+          "required_level": 3
+        },
+        {
+          "skill_id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "required_level": 1
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 3
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 1
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+      "name_en": "Front-End Developer",
+      "name_th": "นักพัฒนาฟรอนท์เอนด์",
+      "duties_en": [
+        "- Use markup languages like HTML to create user-friendly web pages",
+        "- Maintain and improve website",
+        "- Optimize applications for maximum speed",
+        "- Design mobile-based features",
+        "- Collaborate with back-end developers and web designers to improve usability",
+        "- Get feedback from, and build solutions for, users and customers",
+        "- Write functional requirement documents and guides",
+        "- Create quality mockups and prototypes",
+        "- Help back-end developers with coding and troubleshooting",
+        "- Ensure high quality graphic standards and brand consistency",
+        "- Stay up-to-date on emerging technologies"
+      ],
+      "duties_th": [
+        "- ใช้ภาษามาร์กอัป เช่น HTML เพื่อสร้างหน้าเว็บที่ใช้งานง่าย",
+        "- ดูแลและปรับปรุงเว็บไซต์",
+        "- ปรับแอปพลิเคชันให้เหมาะสมเพื่อความเร็วสูงสุด",
+        "- ออกแบบฟีเจอร์บนมือถือ",
+        "- ทำงานร่วมกับนักพัฒนาส่วนหลังและนักออกแบบเว็บไซต์เพื่อปรับปรุงการใช้งาน",
+        "- รับคำติชมจากและสร้างโซลูชันสำหรับผู้ใช้และลูกค้า",
+        "- เขียนเอกสารข้อกำหนดการทำงานและคำแนะนำ",
+        "- สร้างแบบจำลองและต้นแบบที่มีคุณภาพ",
+        "- ช่วยนักพัฒนาแบ็คเอนด์ด้วยการเข้ารหัสและการแก้ไขปัญหา",
+        "- รับรองมาตรฐานกราฟิกคุณภาพสูงและความสอดคล้องของแบรนด์",
+        "- ติดตามข่าวสารล่าสุดเกี่ยวกับเทคโนโลยีที่เกิดขึ้นใหม่"
+      ],
+      "job_group": {
+        "id": "45fe87e9-8719-4b51-a7c4-296241437642",
+        "name_en": "Software and Applications",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 4
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 2
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "100f7319-0c34-49b7-af82-cc471414ca48",
+      "name_en": "Full-Stack Developer",
+      "name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+      "duties_en": [
+        "- Developing front-end website architecture.",
+        "- Designing user interactions on web pages.",
+        "- Developing back-end website applications.",
+        "- Creating servers and databases for functionality.",
+        "- Designing and developing APIs."
+      ],
+      "duties_th": [
+        "- พัฒนาส่วนหน้าบ้านของเว็บไซต์",
+        "- ออกแบบการตอบสนองต่อผู้ใช้งานกับเว็บไซต์",
+        "- พัฒนาส่วนหลังบ้านของเว็บไซต์",
+        "- สร้างเซิร์ฟเวอร์และฐานข้อมูลเพื่อใช้งานได้",
+        "- ออกแบบและพัฒนา APIs"
+      ],
+      "job_group": {
+        "id": "45fe87e9-8719-4b51-a7c4-296241437642",
+        "name_en": "Software and Applications",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 2
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 4
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 3
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "required_level": 1
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 3
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+      "name_en": "IT Support",
+      "name_th": "ไอทีซัพพอร์ท",
+      "duties_en": [
+        "Installing, configuring, monitoring, and maintaining an organization's computer systems and networks.",
+        "Diagnosing any hardware or software faults with these systems and solve other people's issues."
+      ],
+      "duties_th": [
+        "ดูแลรับผิดชอบ จัดการ แก้ไข ซ่อมแซม บำรุงรักษา ติดตั้ง เครื่องใช้อุปกรณ์คอมพิวเตอร์ และระบบเครือข่าย ตลอดจน Software และ Hardware ขององค์กรให้อยู่ในสภาพที่ดี และพร้อมใช้งานอยู่ตลอดเวลา"
+      ],
+      "job_group": {
+        "id": "308384c5-ad20-42ea-9f1c-11855c4167c3",
+        "name_en": "Operations and Support",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 3
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "skill_id": "9d65ebb6-4478-44b5-a994-04f81f2f1317",
+          "skill_name_en": "Network Infrastructure Design",
+          "skill_name_th": "การวางโครงสร้างระบบเครือข่าย",
+          "required_level": 3
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 1
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 1
+        }
+      ]
+    },
+    {
+      "id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+      "name_en": "IoT Engineer",
+      "name_th": "วิศวกร ไอ โอ ที",
+      "duties_en": [
+        "- Creating and developing devices, sensors, and software.",
+        "- Researching, creating, testing, and documenting IoT solutions.",
+        "- Designing, coding, and testing features of IoT devices.",
+        "- Developing software that monitors and executes processes.",
+        "- Designing platform solutions that are cloud-compatible and work with IoT applications.",
+        "- Developing software that allows IoT devices to function and connect to other devices."
+      ],
+      "duties_th": [
+        "- สร้างและพัฒนาอุปกรณ์ เซ็นเซอร์ และซอฟต์แวร์",
+        "- ค้นคว้า สร้าง ทดสอบ และจัดทำเอกสารโซลูชัน IoT",
+        "- ออกแบบ เขียนโปรแกรม และการทดสอบอุปกรณ์ IoT",
+        "- การพัฒนาซอฟต์แวร์ที่ตรวจสอบและดำเนินการตามกระบวนการที่ต้องการ",
+        "- การออกแบบโซลูชันแพลตฟอร์มที่เข้ากันได้กับคลาวด์และทำงานกับแอปพลิเคชัน IoT",
+        "- การพัฒนาซอฟต์แวร์ที่ช่วยให้อุปกรณ์ IoT ทำงานและเชื่อมต่อกับอุปกรณ์อื่นได้"
+      ],
+      "job_group": {
+        "id": "fe8d44e9-2881-4f09-ad6e-81133dbbc9a7",
+        "name_en": "Technical and Engineering",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "907363cc-2e30-4a1f-a344-b5d371c6f2b9",
+        "name_en": "ELECTRONICS",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "required_level": 2
+        },
+        {
+          "skill_id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 4
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "15ed36da-e035-44d6-9c5d-892eb87c59cd",
+          "skill_name_en": "Data Analysis",
+          "skill_name_th": "การวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "f6688e74-c4e1-44ae-9452-a0be202ba3aa",
+          "skill_name_en": "Design Verification",
+          "skill_name_th": "การตรวจสอบการออกแบบ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "ca62a4fb-de58-4b25-8cb4-80de3b091460",
+          "skill_name_en": "Microcontroller",
+          "skill_name_th": "ความรู้เกี่ยวกับไมโครคอนโทรลเลอร์",
+          "required_level": 3
+        },
+        {
+          "skill_id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "required_level": 1
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 1
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+      "name_en": "Machine Learning Engineer",
+      "name_th": "วิศวกรแมชชีนเลิร์นนิง",
+      "duties_en": [
+        "- Study and transform data science prototypes",
+        "- Design machine learning systems",
+        "- Research and implement appropriate ML algorithms and tools",
+        "- Develop machine learning applications according to requirements",
+        "- Select appropriate datasets and data representation methods",
+        "- Run machine learning tests and experiments",
+        "- Perform statistical analysis and fine-tuning using test results",
+        "- Extend existing ML libraries and frameworks"
+      ],
+      "duties_th": [
+        "- ศึกษาและแปลงต้นแบบวิทยาศาสตร์ข้อมูล",
+        "- ออกแบบระบบการเรียนรู้ของเครื่อง",
+        "- วิจัยและใช้อัลกอริธึมและเครื่องมือ ML ที่เหมาะสม",
+        "- พัฒนาแอพพลิเคชั่นแมชชีนเลิร์นนิ่งตามความต้องการ",
+        "- เลือกชุดข้อมูลและวิธีการแสดงข้อมูลที่เหมาะสม",
+        "- เรียกใช้การทดสอบและการทดลองของแมชชีนเลิร์นนิง",
+        "- ทำการวิเคราะห์ทางสถิติและปรับแต่งโดยใช้ผลการทดสอบ",
+        "- ขยายไลบรารีและเฟรมเวิร์ก ML ที่มีอยู่"
+      ],
+      "job_group": {
+        "id": "9e64688e-b063-4bda-9f24-c65e971e1a66",
+        "name_en": "Data and Artificial Intelligence",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 3
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 3
+        },
+        {
+          "skill_id": "15ed36da-e035-44d6-9c5d-892eb87c59cd",
+          "skill_name_en": "Data Analysis",
+          "skill_name_th": "การวิเคราะห์ข้อมูล",
+          "required_level": 3
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "68c254fb-6064-40f3-a96b-b56a86547bbc",
+          "skill_name_en": "Leadership & Social Influence",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+      "name_en": "Mobile Developer",
+      "name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+      "duties_en": [
+        "- Design",
+        "- Develop",
+        "- Testing",
+        "- Maintenance"
+      ],
+      "duties_th": [
+        "- ออกแบบระบบ",
+        "- พัฒนาระบบ",
+        "- ทดสอบระบบ",
+        "- ปรับปรุงและพัฒนาระบบ"
+      ],
+      "job_group": {
+        "id": "45fe87e9-8719-4b51-a7c4-296241437642",
+        "name_en": "Software and Applications",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 5
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 3
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 2
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 1
+        }
+      ]
+    },
+    {
+      "id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+      "name_en": "Network Engineer",
+      "name_th": "วิศวกรเครือข่าย",
+      "duties_en": [
+        "- Configure and install network devices and services.",
+        "- Perform network maintenance and system upgrades.",
+        "- Monitor performance, availability,  reliability, resource utilization, trending, and capacity planning.",
+        "- IT personnel's problem resolution."
+      ],
+      "duties_th": [
+        "- การตรวจทานและยืนยันจำนวนทรัพยากรที่ใช้ในการติดตั้งและพัฒนาระบบเครือข่าย",
+        "- ปฏิบัติงานติดตั้ง พัฒนาระบบ ในทีมงานฝ่ายวิศวกรรมระบบ",
+        "- เป็นที่ปรึกษาในการพัฒนาระบบ หรือต่อยอดการพัฒนา เพื่อรองรับการทำงานในระดับองค์กรของลูกค้าที่ต้องมีความต่อเนื่อง สัมพันธ์ และปลอดภัย"
+      ],
+      "job_group": {
+        "id": "e181e514-bf15-406a-9494-9b75cb7d4203",
+        "name_en": "Network Technology",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "skill_id": "9d65ebb6-4478-44b5-a994-04f81f2f1317",
+          "skill_name_en": "Network Infrastructure Design",
+          "skill_name_th": "การวางโครงสร้างระบบเครือข่าย",
+          "required_level": 3
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 2
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "68c254fb-6064-40f3-a96b-b56a86547bbc",
+          "skill_name_en": "Leadership & Social Influence",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+      "name_en": "QA Engineer",
+      "name_th": "วิศวกรประกันคุณภาพ",
+      "duties_en": [
+        "- Review requirements, specifications, and technical design documents to provide timely and meaningful feedback",
+        "- Create detailed, comprehensive, and well-structured test plans and test cases",
+        "- Estimate, prioritize, plan and coordinate testing activities",
+        "- Design, develop and execute automation scripts using open source tools",
+        "- Identify, record, document thoroughly and track bugs",
+        "- Perform thorough regression testing when bugs are resolved",
+        "- Develop and apply testing processes for new and existing products to meet client needs",
+        "- Liaise with internal teams (e.g. developers and product managers) to identify system requirements",
+        "- Monitor debugging process results",
+        "- Investigate the causes of non-conforming software and train users to implement solutions",
+        "- Track quality assurance metrics, like defect densities and open defect counts",
+        "- Stay up-to-date with new testing tools and test strategies"
+      ],
+      "duties_th": [
+        "- ตรวจสอบ ข้อกำหนด, เอกสารการออกแบบเชิงเทคนิค",
+        "- สร้างแผนการทดสอบที่มีรายละเอียดครอบคลุม",
+        "- ประมาณการ จัดลำดับความสำคัญ วางแผน และประสานงานกับฝ่ายอื่น ๆ",
+        "- ออกแบบ พัฒนาเครื่องมือทดสอบระบบอัตโนมัติ",
+        "- ระบุ บันทึก จัดทำเอกสาร การทดสอบอย่างละเอียดรวมไปถึงข้อบกพร่องหรือปัญหาที่เกิดขึ้น",
+        "- ทดสอบอย่างละเอียด",
+        "- ประสานงานกับทีมอื่น ๆ",
+        "- ตรวจสอบกระบวนการหาสาเหตุของข้อบกพร่อง",
+        "- ตรวจสอบสาเหตุของซอฟต์แวร์ที่ไม่เป็นไปตามข้อกำหนด",
+        "- ติดตามตัวชี้วัดการประกันคุณภาพ และ ข้อบกพร่อง",
+        "- มีความรู้และสนใจเทคโนโลยีการทดสอบอย่างสม่ำเสมอ"
+      ],
+      "job_group": {
+        "id": "40b4440f-17b2-4254-87a6-c948be4ab86e",
+        "name_en": "Quality Engineering",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "8b8bf0d7-2150-4295-9808-f893393c6498",
+        "name_en": "ENGINEERING",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 3
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 3
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 3
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+      "name_en": "Security Engineer",
+      "name_th": "วิศวกรความปลอดภัย",
+      "duties_en": [
+        "- Engineer, implement and monitor security measures for the protection of computer systems, networks, and information.",
+        "- Identify and define system security requirements.",
+        "- Design computer security architecture and develop detailed cybersecurity designs.",
+        "- Prepare and document standard operating procedures and protocols.",
+        "- Configure and troubleshoot security infrastructure devices.",
+        "- Develop technical solutions and new security tools to help mitigate security vulnerabilities and automate repeatable tasks.",
+        "- Ensure that the company knows as much as possible, as quickly as possible about security incidents."
+      ],
+      "duties_th": [
+        "- ออกแบบ ดำเนินการ และตรวจสอบ มาตรการความปลอดภัยสำหรับระบบคอมพิวเตอร์ เครือข่าย และข้อมูล",
+        "- ระบุ และกำหนด ความต้องการด้านความปลอดภัยของระบบ",
+        "- ออกแบบและพัฒนาสถาปัตยกรรมความปลอดภัยอย่างละเอียด",
+        "- จัดทำเอกสารมาตรฐานการดำเนินการและกฏเกณฑ์",
+        "- พัฒนาเครื่องมือหรือแนวทางเชิงเทคนิคที่ช่วยลดช่องโหว่และการทำงานซ้ำได้โดยอัตโนมัติ",
+        "- ตรวจสอบให้แน่ใจว่า บริษัท รู้ถึงเหตุการณ์ด้านความปลอดภัย ได้อย่างรวดเร็วที่สุด"
+      ],
+      "job_group": {
+        "id": "ca10a886-0832-469c-aef4-269d23ba00c3",
+        "name_en": "Cyber Security",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 2
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 4
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "required_level": 1
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 2
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "68c254fb-6064-40f3-a96b-b56a86547bbc",
+          "skill_name_en": "Leadership & Social Influence",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+      "name_en": "Software engineer",
+      "name_th": "วิศวกรซอฟต์แวร์",
+      "duties_en": [
+        "- Requirements Analysis",
+        "- Design",
+        "- Development",
+        "- Testing",
+        "- Maintenance"
+      ],
+      "duties_th": [
+        "- วิเคราะห์ความต้องการ",
+        "- การออกแบบระบบ",
+        "- การพัฒนาระบบ",
+        "- การทดสอบระบบ",
+        "- การบำรุงรักษาระบบหรือโปรแกรม"
+      ],
+      "job_group": {
+        "id": "45fe87e9-8719-4b51-a7c4-296241437642",
+        "name_en": "Software and Applications",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "required_level": 1
+        },
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "required_level": 3
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 4
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "required_level": 3
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 3
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 2
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "68c254fb-6064-40f3-a96b-b56a86547bbc",
+          "skill_name_en": "Leadership & Social Influence",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+      "name_en": "System Engineer",
+      "name_th": "วิศวกรระบบ",
+      "duties_en": [
+        "- Managing and monitoring all installed systems and infrastructure.",
+        "- Installing, configuring, testing, and maintaining operating systems, application software, and system management tools.",
+        "- Ensuring the highest levels of systems and infrastructure availability."
+      ],
+      "duties_th": [
+        "- จัดการ ตรวจสอบ ระบบและโครงสร้างพื้นฐานทั้งหมดที่ติดตั้งไว้",
+        "- ติดตั้ง ตั้งค่า ทดสอบ และดูแล ระบบปฏิบัติการ โปรแกรม และเครื่องมือบริหารจัดการระบบ",
+        "- ทำให้มั่นใจว่าระบบและโครงสร้างสามารถทำงานได้ประสิทธิภาพสูงสุดตลอดเวลา"
+      ],
+      "job_group": {
+        "id": "056dfc45-f04a-4c30-b92a-7381bc774ab3",
+        "name_en": "Infrastructure",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "required_level": 1
+        },
+        {
+          "skill_id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "required_level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "required_level": 2
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "skill_id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "required_level": 1
+        },
+        {
+          "skill_id": "9d65ebb6-4478-44b5-a994-04f81f2f1317",
+          "skill_name_en": "Network Infrastructure Design",
+          "skill_name_th": "การวางโครงสร้างระบบเครือข่าย",
+          "required_level": 3
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "required_level": 2
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "68c254fb-6064-40f3-a96b-b56a86547bbc",
+          "skill_name_en": "Leadership & Social Influence",
+          "skill_name_th": null,
+          "required_level": 1
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    },
+    {
+      "id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+      "name_en": "UX/UI Designer",
+      "name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+      "duties_en": [
+        "- Gathering and evaluating user requirements, in collaboration with product managers and engineers.",
+        "- Illustrating design ideas using storyboards, process flows, and sitemaps.",
+        "- Designing graphic user interface elements, like menus, tabs, and widgets."
+      ],
+      "duties_th": [
+        "- รวบรวมและประเมินความต้องการของผู้ใช้ โดยร่วมมือกับผู้ดูแลผลิตภัณฑ์และวิศวกร",
+        "- อธิบายแนวคิดการออกแบบโดยใช้สตอรี่บอร์ด โฟลว์กระบวนการ และแผนผังเว็บไซต์",
+        "- การออกแบบองค์ประกอบส่วนต่อประสานกราฟิกกับผู้ใช้ เช่น เมนู แท็บ และวิดเจ็ต"
+      ],
+      "job_group": {
+        "id": "ca53e1db-5120-4a4a-a0db-4ba313a1c54c",
+        "name_en": "Design",
+        "name_th": null
+      },
+      "job_field": {
+        "id": "b07b438d-74c1-46de-a879-2c3ed61b8125",
+        "name_en": "DESIGN",
+        "name_th": null
+      },
+      "required_hard_skills": [
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "required_level": 1
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "required_level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "required_level": 3
+        },
+        {
+          "skill_id": "043559af-c471-481d-9f3a-a9bdefcfcd44",
+          "skill_name_en": "UX/UI Design",
+          "skill_name_th": "การออกแบบหน้าตาและประสบการณ์ของผู้ใช้งาน",
+          "required_level": 3
+        }
+      ],
+      "required_soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "required_level": 3
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "required_level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "required_level": 2
+        }
+      ]
+    }
+  ]
+}

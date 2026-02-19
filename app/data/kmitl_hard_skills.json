@@ -1,0 +1,2746 @@
+{
+  "metadata": {
+    "source": "https://skill-mapping-hasura.aegis.aginix.tech/v1/graphql",
+    "curriculum_id": "01007",
+    "total_skills": 21,
+    "crawled_at": "2026-02-20T02:50:19.540999"
+  },
+  "hard_skills": [
+    {
+      "id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+      "name_en": "API",
+      "name_th": "เอพีไอ",
+      "description_en": "API is a software intermediary that allows two applications to talk to each other.",
+      "description_th": "เอพีไอ คือซอฟต์แวร์ตัวกลางที่ช่วยให้สองแอปพลิเคชันสามารถพูดคุยกันได้",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Needs to look up the documentation frequently",
+          "description_th": "ต้องดูเอกสารบ่อยครั้ง"
+        },
+        "2": {
+          "description_en": "Has the most frequently used APIs in memory",
+          "description_th": "จำ API ที่ใช้งานบ่อย ๆ ได้"
+        },
+        "3": {
+          "description_en": "Vast and In-depth knowledge of the API",
+          "description_th": "มีความรู้ลึกและกว้างขวางเกี่ยวกับ API"
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "Has written libraries that sit on top of the API to simplify frequently used tasks and to fill in gaps in the API",
+          "description_th": "เคยเขียนไลบรารี่ครอบ API ที่ช่วยทำให้งานที่ทำเป็นประจำง่ายขึ้น และเติมช่องว่างของ API ดังกล่าว"
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 2
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 1
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 2
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 2
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 1
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 1
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 2
+        },
+        {
+          "subject_id": "3ee38d30-fc71-484d-b2bc-25d0a8f6f180",
+          "subject_code": "01076558",
+          "subject_name_en": "MICROSERVICES AND REST API DESIGN",
+          "subject_name_th": null,
+          "level": 1
+        },
+        {
+          "subject_id": "9dbc0762-d83b-4219-8894-f7fa2c37e3c2",
+          "subject_code": "01076024",
+          "subject_name_en": "SOFTWARE ARCHITECTURE AND DESIGN",
+          "subject_name_th": "สถาปัตยกรรมและการออกแบบซอฟต์แวร์",
+          "level": 1
+        },
+        {
+          "subject_id": "82483bb9-f222-4b2d-b50d-7235225bdc2b",
+          "subject_code": "01076008",
+          "subject_name_en": "SOFTWARE DEVELOPMENT PROCESSES",
+          "subject_name_th": "กระบวนการพัฒนาซอฟต์แวร์",
+          "level": 1
+        },
+        {
+          "subject_id": "b2659859-b788-449c-b2b8-797a1bd6e760",
+          "subject_code": "01076025",
+          "subject_name_en": "SOFTWARE STUDIO",
+          "subject_name_th": "สตูดิโอซอฟต์แวร์",
+          "level": 1
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 10,
+        "total_subjects": 5
+      }
+    },
+    {
+      "id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+      "name_en": "Algorithms",
+      "name_th": " อัลกอริทึม",
+      "description_en": "Find and implement the solution to the problems by utilizing the well-defined instructions of well-known problems in programming",
+      "description_th": "การหาแนวทางหรือวิธีการแก้ไขปัญหาโปรแกรมให้สำเร็จลุล่วง โดยนำแนวคิดหรือรูปแบบการแก้ไขปัญหาที่มีอยู่แล้วมาใช้งานร่วมกัน",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Basic sorting, searching and data structure traversal and retrieval algorithms",
+          "description_th": "ใช้งานการเรียงลำดับพื้นฐาน และการใช้งานอัลกอริธึมในการสืบค้นข้อมูล"
+        },
+        "2": {
+          "description_en": "Tree, Graph, simple greedy and divide and conquer algorithms, is able to understand the relevance of the levels of this matrix.",
+          "description_th": "ใช้งานและเข้าใจในแผนภูมิต้นไม้, กราฟ, อัลกอริธึมแบบละโมบ และอัลกอริธึมแบ่งแยกและเอาชนะ"
+        },
+        "3": {
+          "description_en": "Able to recognize and code dynamic programming solutions, good knowledge of graph algorithms, good knowledge of numerical computation algorithms, able to identify NP problems etc.",
+          "description_th": "สามารถรับรู้และเขียนโปรแกรมแบบไดนามิกได้ มีความรู้เกี่ยวกับอัลกอริธึมกราฟ มีความรู้เกี่ยวกับอัลกอริธึมการคำนวณเชิงตัวเลข สามารถระบุปัญหา NP เป็นต้น "
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 2
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 2
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 2
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 3
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 1
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 3
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 3
+        },
+        {
+          "subject_id": "4f3a4b41-5ae0-4bd3-980b-8e9100ca8394",
+          "subject_code": "01076005",
+          "subject_name_en": "DATA STRUCTURES AND ALGORITHM",
+          "subject_name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 11,
+        "total_subjects": 2
+      }
+    },
+    {
+      "id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+      "name_en": "Architecture Design ",
+      "name_th": "การออกแบบทางสถาปัตยกรรม",
+      "description_en": "Architectural design is an early stage in the design process for the system. This represents the connection between processes of specification and design.",
+      "description_th": "การออกแบบทางสถาปัตยกรรมเป็นขั้นตอนแรกในกระบวนการออกแบบระบบ โดยแสดงถึงความเชื่อมโยงระหว่างกระบวนการของข้อกำหนดเฉพาะและการออกแบบ เข้าด้วยกัน",
+      "job_field": {
+        "id": "8b8bf0d7-2150-4295-9808-f893393c6498",
+        "name_en": "ENGINEERING",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Understand the background, issue and requirement of system",
+          "description_th": "เข้าใจความเป็นมา ประเด็น และความต้องการของระบบอย่างเพียงพอ"
+        },
+        "2": {
+          "description_en": "Able to design software architecture for specific requirement",
+          "description_th": "สามารถออกแบบระบบทั่วไปตามความต้องการได้"
+        },
+        "3": {
+          "description_en": "Able to design very complex software architecture efficiently",
+          "description_th": "สามารถออกแบบระบบที่มีความยุ่งยากซับซ้อนได้อย่างมีประสิทธิภาพ"
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 1
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 2
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 1
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 1
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 1
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 1
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 1
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 1
+        },
+        {
+          "subject_id": "9dbc0762-d83b-4219-8894-f7fa2c37e3c2",
+          "subject_code": "01076024",
+          "subject_name_en": "SOFTWARE ARCHITECTURE AND DESIGN",
+          "subject_name_th": "สถาปัตยกรรมและการออกแบบซอฟต์แวร์",
+          "level": 2
+        },
+        {
+          "subject_id": "82483bb9-f222-4b2d-b50d-7235225bdc2b",
+          "subject_code": "01076008",
+          "subject_name_en": "SOFTWARE DEVELOPMENT PROCESSES",
+          "subject_name_th": "กระบวนการพัฒนาซอฟต์แวร์",
+          "level": 1
+        },
+        {
+          "subject_id": "b2659859-b788-449c-b2b8-797a1bd6e760",
+          "subject_code": "01076025",
+          "subject_name_en": "SOFTWARE STUDIO",
+          "subject_name_th": "สตูดิโอซอฟต์แวร์",
+          "level": 1
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 10,
+        "total_subjects": 4
+      }
+    },
+    {
+      "id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+      "name_en": "Cloud Computing",
+      "name_th": "การประมวลผลแบบคลาวด์",
+      "description_en": "Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.",
+      "description_th": "การประมวลผลแบบคลาวด์ คือความพร้อมใช้งานตามต้องการของทรัพยากรระบบคอมพิวเตอร์ โดยเฉพาะอย่างยิ่งการจัดเก็บข้อมูล (ที่เก็บข้อมูลบนคลาวด์) และพลังการประมวลผล โดยไม่มีการจัดการโดยตรงโดยผู้ใช้ ",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Installation, configuration and troubleshooting of cloud computing infrastructures",
+          "description_th": "ติดตั้ง กำหนดค่า และแก้ไขปัญหาโครงสร้างพื้นฐานการประมวลผลบนคลาวด์ "
+        },
+        "2": {
+          "description_en": "Assessment of cloud computing application performance measurements and improvements ",
+          "description_th": "ประเมินการวัดและการปรับปรุงประสิทธิภาพแอปพลิเคชันการประมวลผลบนคลาวด์ "
+        },
+        "3": {
+          "description_en": "Emerging the technologies, standards and trends in cloud computing applications ",
+          "description_th": "นำเทคโนโลยี, มาตรฐาน และแนวโน้มในแอพพลิเคชั่นการประมวลผลแบบคลาวด์ "
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 2
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 1
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 1
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 1
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 1
+        },
+        {
+          "subject_id": "35a14a0e-43f4-4d79-8a6e-1e41b60730fe",
+          "subject_code": "01076043",
+          "subject_name_en": "INTRODUCTION TO CLOUD ARCHITECTURE",
+          "subject_name_th": null,
+          "level": 2
+        },
+        {
+          "subject_id": "1260db9e-000e-4a39-82bb-0e7379db558d",
+          "subject_code": "01076029",
+          "subject_name_en": "SYSTEM PLATFORM ADMINISTRATION",
+          "subject_name_th": "การดูแลแพลทฟอร์มระบบ",
+          "level": 1
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 7,
+        "total_subjects": 3
+      }
+    },
+    {
+      "id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+      "name_en": "Coding",
+      "name_th": "การเขียนโปรแกรม",
+      "description_en": "Knowledge and understanding of various aspects of programming and can be written to work according to the system requirements or an organization needs. With reviews and management of the structure in a standardized manner.",
+      "description_th": "มีความรู้ ความเข้าใจในด้านต่าง ๆ เกี่ยวกับการเขียนโปรแกรม และสามารถเขียนให้ทำงานตามความต้องการของระบบ หรือองค์กรได้ โดยมีการดูแล จัดการโครงสร้างอย่างมีมาตรฐานแบบแผน",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Can code to get the expected results",
+          "description_th": "มีทักษะพื้นฐานของการเขียนโค้ด สามารถเขียนโปรแกรมเพื่อแสดงผลในสิ่งที่ต้องการออกมาได้"
+        },
+        "2": {
+          "description_en": "Understanding condition, loop etc.",
+          "description_th": "เข้าใจในเรื่องของ condition, loop etc. ที่ช่วยให้เขียนโปรแกรมได้หลากหลายขึ้น"
+        },
+        "3": {
+          "description_en": "Able to design and implement classes and functions as needed and understanding the flow of processes.",
+          "description_th": "สามารถสร้าง function, class ตามที่ต้องการและเข้าใจ flow การทำงานเมื่อมี function ทำงานร่วมกัน   รวมไปถึงการออกแบบ class/flow ให้เหมาสมกับงาน"
+        },
+        "4": {
+          "description_en": "Able to write, structure, and simplify or ambiguous code to avoid problems or errors so it can also be modified according to the changing of system requirements.",
+          "description_th": "สามารถเขียน วางโครงสร้าง และลดความซับซ้อนหรือกำกวม เพื่อไม่ให้เกิดปัญหาหรือข้อผิดพลาด อีกทั้งยังสามารถแก้ไขปรับปรุงตามความต้องการที่เปลี่ยนไปของระบบได้"
+        },
+        "5": {
+          "description_en": "Able to optimizing prior to the device or operation system used for maximum performance.",
+          "description_th": "สามารถปรับปรุงประสิทธิภาพของโปรแกรมโดยคำนึงถึงอุปกรณ์ที่ใช้งาน ให้ใช้งานได้อย่างมีประสิทธิภาพสูงสุด"
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 4
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 3
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 5
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 3
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 4
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 4
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 4
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 3
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 4
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 3
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 5
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 3
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 4
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 5
+        },
+        {
+          "subject_id": "1a5819fb-d84f-42ca-bcc8-00f6cbfc1710",
+          "subject_code": "01076004",
+          "subject_name_en": "OBJECT ORIENTED PROGRAMMING",
+          "subject_name_th": "การเขียนโปรแกรมเชิงวัตถุ",
+          "level": 3
+        },
+        {
+          "subject_id": "bcb1e180-26be-4394-8cc9-6eee0a180b1c",
+          "subject_code": "01076002",
+          "subject_name_en": "PROGRAMMING FUNDAMENTAL",
+          "subject_name_th": "พื้นฐานการเขียนโปรแกรมคอมพิวเตอร์",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 17,
+        "total_subjects": 3
+      }
+    },
+    {
+      "id": "20d840a9-72f0-4861-af38-3b469976a147",
+      "name_en": "Cybersecurity",
+      "name_th": "ความปลอดภัยทางไซเบอร์",
+      "description_en": "Management, maintenance, protection of computers, servers, networks, and devices from malicious attacks, including network security, application security, data security, operational safety, etc.",
+      "description_th": "การจัดการ ดูแล ป้องกัน คอมพิวเตอร์ เซิร์ฟเวอร์ เครือข่าย และอุปกรณ์ต่าง ๆ จากการโจมตีที่เป็นอันตราย ประกอบด้วย ความปลอดภัยเครือข่าย ความปลอดภัยแอปพลิเคชัน ความปลอดภัยข้อมูล ความปลอดภัยในการปฏิบัติงาน และอื่น ๆ",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Basic knowledge and understanding in cybersecurity.",
+          "description_th": "มีความรู้พื้นฐานและความเข้าใจในความปลอดภัยทางไซเบอร์"
+        },
+        "2": {
+          "description_en": "Minimum necessary skills and experience in cybersecurity. Academic level certificate.",
+          "description_th": "มีทักษะและประสบการณ์ที่จำเป็นขั้นต่ำในการรักษาความปลอดภัยในโลกไซเบอร์ ได้รับใบรับรองระดับวิชาการ"
+        },
+        "3": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "4": {
+          "description_en": "Trained on the latest tools and software to detect, prevent, and combat cybersecurity issues. Professional level certificate.",
+          "description_th": "ได้รับการฝึกอบรมเกี่ยวกับเครื่องมือและซอฟต์แวร์ล่าสุดเพื่อตรวจจับ ป้องกัน และต่อสู้กับปัญหาด้านความปลอดภัยในโลกไซเบอร์ ได้รับใบรับรองระดับมืออาชีพ"
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 1
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 1
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 2
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 1
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 2
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 1
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 1
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 4
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 1
+        },
+        {
+          "subject_id": "6bfe4c26-8b39-44cf-adb5-73440fefdf0b",
+          "subject_code": "01076028",
+          "subject_name_en": "INFORMATION AND COMPUTER SECURITY",
+          "subject_name_th": "ความมั่นคงข้อมูลและคอมพิวเตอร์",
+          "level": 1
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 14,
+        "total_subjects": 2
+      }
+    },
+    {
+      "id": "15ed36da-e035-44d6-9c5d-892eb87c59cd",
+      "name_en": "Data Analysis",
+      "name_th": "การวิเคราะห์ข้อมูล",
+      "description_en": "Data analysis is a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.",
+      "description_th": "การวิเคราะห์ข้อมูลเป็นกระบวนการของการตรวจสอบ การคลีน การแปลง และการสร้างแบบจำลองข้อมูลโดยมีเป้าหมายในการค้นหาข้อมูลที่เป็นประโยชน์ โดยแจ้งข้อสรุป และสนับสนุนการตัดสินใจ ",
+      "job_field": {
+        "id": "bc904eb6-de5c-44c3-81db-48689de7787c",
+        "name_en": "FINANCIAL SERVICES",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Descriptive Analytics",
+          "description_th": "วิเคราะห์แบบพื้นฐาน ทำการวิเคราะห์ด้วยเทคนิคประเภทสถิติเชิงพรรณา หาค่ากลาง ค่าการกระจาย เช่น ค่าเฉลี่ย ผลรวม เป็นต้น"
+        },
+        "2": {
+          "description_en": "Diagnostics Analytics",
+          "description_th": "วิเคราะห์ ความสัมพันธ์ของตัวแปรตั้งแต่สองตัวขึ้นไป (Multivariate Analysis) เช่น อุณหภูมิมีผลต่อยอดขายหรือไม่ ยอดขายในแต่ละพื้นที่แตกต่างกันหรือไม่ เป็นต้น"
+        },
+        "3": {
+          "description_en": "Predictive Analytics",
+          "description_th": "พยากรณ์หรือทำนายอนาคต เช่น ลูกค้าคนไหนจะหยุดใช้บริการ เมื่อลูกค้าซื้อสินค้านี้แล้ว จะซื้อสินค้าใดต่อ เป็นต้น"
+        },
+        "4": {
+          "description_en": "Prescriptive Analytics",
+          "description_th": "วิเคราะห์โดยสามารถบอกได้ว่าต้องทำอะไรเพื่อให้ได้ผลลัพธ์ที่ดีที่สุดภายใต้เงื่อนไขที่จำกัด เช่น ควรตั้งราคาสินค้าเท่าไหร่ดี ถึงจะได้กำไรสูงสุด หรือ จะต้องวางแผนการสิ่งสินค้าในเวลาใด หรือ เส้นทางใดจึงจะใช้ต้นทุนต่ำที่สุด"
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 2
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 3
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 1
+        },
+        {
+          "subject_id": "74de4f67-c757-4ff7-a6bf-6d444b0bc5ed",
+          "subject_code": "01076598",
+          "subject_name_en": "INTRODUCTION TO DATA ANALYTICS",
+          "subject_name_th": "การวิเคราะห์ข้อมูลเบื้องต้น",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 5,
+        "total_subjects": 2
+      }
+    },
+    {
+      "id": "0dbf3239-c177-424b-971d-2e316dadb041",
+      "name_en": "Data Structures",
+      "name_th": "โครงสร้างข้อมูล",
+      "description_en": "Program to organize, manage and store data systematically and effectively.",
+      "description_th": "สร้างหรือเขียนโปรแกรมให้สามารถจัดระเบียบ จัดการ และจัดเก็บข้อมูล ได้อย่างเป็นระบบ และมีประสิทธิภาพ",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Able to explain and use Arrays, LinkedLists, Dictionaries etc in practical programming tasks.",
+          "description_th": "สามารถอธิบายและใช้ Arrays, LinkedLists, Dictionaries และอื่น ๆ ในการเขียนโปรแกรมจริง"
+        },
+        "2": {
+          "description_en": "Knows space and time tradeoffs of the basic data structures, Arrays vs LinkedLists, Able to explain how hash tables can be implemented and can handle collisions etc.",
+          "description_th": "รู้ในเรื่อง space and time tradeoffs ของพื้นฐาน data structures, Arrays vs LinkedLists, สามารถอธิบายการนำ hash tables มาใช้งานและการจัดการ collisions และอื่น ๆ"
+        },
+        "3": {
+          "description_en": "Knowledge of advanced data structures like B-trees, binomial and fibonacci heaps, AVL/Red Black trees, Splay Trees, Skip Lists, tries etc.",
+          "description_th": "มีความรู้ในเรื่อง advanced data structures อย่างเช่น B-tree, binomial and fibonacci heaps, AVL/Red Black trees, Splay Trees, Skip Lists, tries และอื่น ๆ"
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 3
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 3
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 1
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 3
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 2
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 1
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 1
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 3
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "4f3a4b41-5ae0-4bd3-980b-8e9100ca8394",
+          "subject_code": "01076005",
+          "subject_name_en": "DATA STRUCTURES AND ALGORITHM",
+          "subject_name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+          "level": 3
+        },
+        {
+          "subject_id": "4131b1ed-1a88-464c-9a91-f59aed76cda3",
+          "subject_code": "01076109",
+          "subject_name_en": "OBJECT ORIENTED DATA STRUCTURES",
+          "subject_name_th": null,
+          "level": 2
+        },
+        {
+          "subject_id": "1a5819fb-d84f-42ca-bcc8-00f6cbfc1710",
+          "subject_code": "01076004",
+          "subject_name_en": "OBJECT ORIENTED PROGRAMMING",
+          "subject_name_th": "การเขียนโปรแกรมเชิงวัตถุ",
+          "level": 1
+        },
+        {
+          "subject_id": "bcb1e180-26be-4394-8cc9-6eee0a180b1c",
+          "subject_code": "01076002",
+          "subject_name_en": "PROGRAMMING FUNDAMENTAL",
+          "subject_name_th": "พื้นฐานการเขียนโปรแกรมคอมพิวเตอร์",
+          "level": 1
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 13,
+        "total_subjects": 4
+      }
+    },
+    {
+      "id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+      "name_en": "Data Visualization",
+      "name_th": "้การสร้างภาพข้อมูล",
+      "description_en": "Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps",
+      "description_th": "้การสร้างภาพข้อมูล คือการแสดงข้อมูลเป็นแบบกราฟิก โดยใช้องค์ประกอบภาพ เช่น แผนภูมิ กราฟ และแผนที่ ",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "representation of a one-dimensional variation,e.g.  Excel chart",
+          "description_th": "แสดงค่า 1 ค่าออกมาให้เห็นได้ง่ายเช่น กราฟแท่ง"
+        },
+        "2": {
+          "description_en": "representation of 2 or more variables on the same graph",
+          "description_th": "แสดงค่าอย่างน้อย 2 ค่าออกมาในกราฟเดียวกันโดยสามารถที่จะแยกแยะ และเปรียบเทียบได้"
+        },
+        "3": {
+          "description_en": "the user becomes an actor of his discoveries thanks to functionalities that allow him to interact with the visualization",
+          "description_th": "ผู้ใช้งานสามารถโต้ตอบกับการนำเสนอได้"
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 1
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 2
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 2
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 2
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+          "job_name_en": "UX/UI Designer",
+          "job_name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+          "required_level": 1
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 1
+        },
+        {
+          "subject_id": "bf75d34e-fcc9-4cd7-85dd-08e08a5d7dd2",
+          "subject_code": "01076585",
+          "subject_name_en": "DATA MINING",
+          "subject_name_th": "เหมืองข้อมูล",
+          "level": 1
+        },
+        {
+          "subject_id": "9903597b-b3d4-4d7e-8081-ce01c71da27b",
+          "subject_code": "01076032",
+          "subject_name_en": "ELEMENTARY DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA",
+          "subject_name_th": "สมการอนุพันธ์และพีชคณิตเชิงเส้นพื้นฐาน",
+          "level": 1
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 8,
+        "total_subjects": 3
+      }
+    },
+    {
+      "id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+      "name_en": "Database Design",
+      "name_th": "การออกแบบฐานข้อมูล",
+      "description_en": "Design the database to serve the project requirements or organization needs.",
+      "description_th": "ออกแบบฐานข้อมูลเพื่อตอบสนองความต้องการของโครงการหรือความต้องการขององค์กร",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Able to design with basic concepts and serve the requirements just right.",
+          "description_th": "สามารถออกแบบด้วยแนวคิดพื้นฐานและตอบสนองความต้องการได้อย่างเหมาะสม"
+        },
+        "2": {
+          "description_en": "Able to design good and normalized database schemas, views, stored procedures, triggers, and user-defined types keeping in mind the queries that’ll have to be run.",
+          "description_th": "สามารถออกแบบแผนผังฐานข้อมูล มุมมอง โพรซีเดอร์ที่จัดเก็บ ทริกเกอร์ และประเภทที่ผู้ใช้กำหนดได้ดีและเป็นมาตรฐาน โดยคำนึงถึงการสืบค้นข้อมูลที่จะต้องดำเนินการ"
+        },
+        "3": {
+          "description_en": "Able to design with performance, scalability, etc. as the key point.",
+          "description_th": "สามารถออกแบบโดยคำนึงถึงประสิทธิภาพ ความสามารถในการขยาย ฯลฯ เป็นหลัก"
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 2
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 1
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 1
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "e8265dc1-1040-40d3-b470-49585e4a2a77",
+          "subject_code": "01076589",
+          "subject_name_en": "ADVANCED DATABASE SYSTEMS",
+          "subject_name_th": "ระบบฐานข้อมูลขั้นสูง",
+          "level": 2
+        },
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 3
+        },
+        {
+          "subject_id": "86e16310-84c1-4f4e-bd39-7bcbbab0c781",
+          "subject_code": "01076263",
+          "subject_name_en": "DATABASE SYSTEMS",
+          "subject_name_th": "ระบบฐานข้อมูล",
+          "level": 1
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 10,
+        "total_subjects": 3
+      }
+    },
+    {
+      "id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+      "name_en": "Database Management",
+      "name_th": "การจัดการฐานข้อมูล",
+      "description_en": "Database Management, allows a person to organize, store and retrieve data from a computer.",
+      "description_th": "การจัดการฐานข้อมูล ช่วยให้บุคคลสามารถจัดระเบียบ จัดเก็บ และดึงข้อมูลจากคอมพิวเตอร์ได้ ",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Knows basic database concepts, normalization, ACID, transactions and can write simple selects",
+          "description_th": "มีความรู้พื้นฐานเกี่ยวกับฐานข้อมูล concepts, normalize , ACID, transactions และสามารถเขียน query ได้"
+        },
+        "2": {
+          "description_en": "Proficient in use of views, stored procedures, triggers, and user-defined types. Knows difference between clustered and non-clustered indexes. Proficient in use of ORM tools.",
+          "description_th": "มีความเชี่ยวชาญในการใช้งาน มุมมอง โพรซีเดอร์ที่จัดเก็บ ทริกเกอร์ และประเภทที่ผู้ใช้กำหนดได้ดีและเป็นมาตรฐาน รู้ความแตกต่างระหว่างดัชนีคลัสเตอร์และดัชนีที่ไม่ใช่คลัสเตอร์ สามารถใช้เครื่องมือ ORM ได้คล่อง"
+        },
+        "3": {
+          "description_en": "Can do database administration, performance optimization, index optimization, write advanced select queries, able to replace cursor usage with relational SQL.",
+          "description_th": "สามารถทำการบริหารฐานข้อมูล, เพิ่มประสิทธิภาพการทำงาน, การปรับดัชนีให้เหมาะสม, เขียน query แบบใช้เลือกข้อมูลขั้นสูง, สามารถแทนที่การใช้เคอร์เซอร์ด้วย SQL เชิงสัมพันธ์"
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 3
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 2
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 2
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 1
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 1
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 1
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "e8265dc1-1040-40d3-b470-49585e4a2a77",
+          "subject_code": "01076589",
+          "subject_name_en": "ADVANCED DATABASE SYSTEMS",
+          "subject_name_th": "ระบบฐานข้อมูลขั้นสูง",
+          "level": 3
+        },
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 2
+        },
+        {
+          "subject_id": "86e16310-84c1-4f4e-bd39-7bcbbab0c781",
+          "subject_code": "01076263",
+          "subject_name_en": "DATABASE SYSTEMS",
+          "subject_name_th": "ระบบฐานข้อมูล",
+          "level": 1
+        },
+        {
+          "subject_id": "82483bb9-f222-4b2d-b50d-7235225bdc2b",
+          "subject_code": "01076008",
+          "subject_name_en": "SOFTWARE DEVELOPMENT PROCESSES",
+          "subject_name_th": "กระบวนการพัฒนาซอฟต์แวร์",
+          "level": 1
+        },
+        {
+          "subject_id": "b2659859-b788-449c-b2b8-797a1bd6e760",
+          "subject_code": "01076025",
+          "subject_name_en": "SOFTWARE STUDIO",
+          "subject_name_th": "สตูดิโอซอฟต์แวร์",
+          "level": 1
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 14,
+        "total_subjects": 5
+      }
+    },
+    {
+      "id": "f6688e74-c4e1-44ae-9452-a0be202ba3aa",
+      "name_en": "Design Verification",
+      "name_th": "การตรวจสอบการออกแบบ",
+      "description_en": "The skill to run the test suite, inspect, or analyze the design and provides evidence that the design outputs meet the design inputs (product requirements and specifications)",
+      "description_th": "ทักษะในการรันชุดทดสอบ ตรวจสอบ หรือวิเคราะห์การออกแบบ และแสดงหลักฐานว่าการทำงานหรือผลลัพธ์จากการออกแบบตรงตามต้องการและข้อกำหนด",
+      "job_field": {
+        "id": "8b8bf0d7-2150-4295-9808-f893393c6498",
+        "name_en": "ENGINEERING",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "2": {
+          "description_en": "Verify the design will work with the desired results.",
+          "description_th": "ตรวจสอบการออกแบบว่าจะสามารถทำงานได้ตามผลลัพธ์ที่ต้องการ"
+        },
+        "3": {
+          "description_en": "Utilize the test suite and tools to inspect and analyze the design to make sure it can work as needed.",
+          "description_th": "ใช้เครื่องมือทดสอบ ในการตรวจสอบและวิเคราะห์การออกแบบ เพื่อให้แน่ใจว่าจะสามารถทำงานได้ตามต้องการ"
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "48d89dd0-ac25-4413-807b-e7198ad99c3c",
+          "subject_code": "01076023",
+          "subject_name_en": "COMPUTER HARDWARE DESIGN",
+          "subject_name_th": "การออกแบบทางฮาร์ดแวร์คอมพิวเตอร์",
+          "level": 3
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 1,
+        "total_subjects": 1
+      }
+    },
+    {
+      "id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+      "name_en": "Electronics",
+      "name_th": "อิเล็กทรอนิกส์",
+      "description_en": "Understanding equipment such as Oscilloscopes, Multimeter, etc. Can design an electronic circuit.",
+      "description_th": "ความรู้ความเข้าใจในเครื่องมือต่าง ๆ เช่น ออสซิลโลสโคป มัลติมิเตอร์ เป็นต้น, ความสามารถในการออกแบบวงจรอิเล็กทรอนิกส์",
+      "job_field": {
+        "id": "907363cc-2e30-4a1f-a344-b5d371c6f2b9",
+        "name_en": "ELECTRONICS",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Understanding basic of circuit and able to calculate things that use in circuit such as R",
+          "description_th": "เข้าใจวงจรไฟฟ้าเบื้องต้น และสามารถคำนวณสิ่งที่จะใช้ได้เช่น คำนวณ R สำหรับวงจร"
+        },
+        "2": {
+          "description_en": "Understand and use electronic test equipment correctly and appropriately. ",
+          "description_th": "เข้าใจและใช้เครื่องมือวัดและทดสอบได้อย่างถูกต้องและเหมาะสม"
+        },
+        "3": {
+          "description_en": "Able to design a circuit for specific requirement",
+          "description_th": "ออกแบบวงจรทั่วไปตามความต้องการได้"
+        },
+        "4": {
+          "description_en": "Able to create top-down design for complex circuit and implement with tools like VHDL etc.",
+          "description_th": "ออกแบบ Top down design สำหรับวงจรที่ซับซ้อน และนำไป implement ได้จริงผ่านเครื่องมือต่าง ๆ เช่น VHDL"
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 2
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 2
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3fbc103a-6437-4c7f-8379-23f183375c4b",
+          "subject_code": "01076420",
+          "subject_name_en": "ADVANCED DIGITAL DESIGN USING HDL",
+          "subject_name_th": "การออกแบบดิจิตอลขั้นสูงโดยใช้เฮชดีแอล",
+          "level": 4
+        },
+        {
+          "subject_id": "249bb3b0-a3ad-486e-88f2-8e77a1c372f1",
+          "subject_code": "01076003",
+          "subject_name_en": "CIRCUITS AND ELECTRONICS",
+          "subject_name_th": "วงจรไฟฟ้าและอิเล็กทรอนิกส์",
+          "level": 1
+        },
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 2
+        },
+        {
+          "subject_id": "48d89dd0-ac25-4413-807b-e7198ad99c3c",
+          "subject_code": "01076023",
+          "subject_name_en": "COMPUTER HARDWARE DESIGN",
+          "subject_name_th": "การออกแบบทางฮาร์ดแวร์คอมพิวเตอร์",
+          "level": 4
+        },
+        {
+          "subject_id": "faef18ec-36be-4640-a1f8-4353b48e7334",
+          "subject_code": "01076006",
+          "subject_name_en": "DIGITAL SYSTEM FUNDAMENTALS",
+          "subject_name_th": "พื้นฐานระบบดิจิตอล",
+          "level": 2
+        },
+        {
+          "subject_id": "764f27bc-b135-4d88-9f31-5d97093a1b84",
+          "subject_code": "01076001",
+          "subject_name_en": "INTRODUCTION TO COMPUTER ENGINEERING",
+          "subject_name_th": "วิศวกรรมคอมพิวเตอร์เบื้องต้น",
+          "level": 1
+        },
+        {
+          "subject_id": "01cabd54-34d6-4399-a73b-cdb68dc4ecf4",
+          "subject_code": "01076022",
+          "subject_name_en": "MICROCONTROLLER APPLICATION AND DEVELOPMENT",
+          "subject_name_th": "การประยุกต์และพัฒนาไมโครคอนโทรลเลอร์",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 3,
+        "total_subjects": 7
+      }
+    },
+    {
+      "id": "ca62a4fb-de58-4b25-8cb4-80de3b091460",
+      "name_en": "Microcontroller",
+      "name_th": "ความรู้เกี่ยวกับไมโครคอนโทรลเลอร์",
+      "description_en": "Knowledge and understanding of use, selection, search, or analysis of features/functions that the microcontroller can do or have the required features",
+      "description_th": "ความรู้ ความเข้าใจ ในการใช้งาน เลือก ค้นหา หรือหรือวิเคราะห์ เกี่ยวกับ คุณสมบัติ/ฟังก์ชัน ที่ไมโครคอนโทรลเลอร์สามารถทำได้ หรือมีคุณสมบัติที่ต้องการ",
+      "job_field": {
+        "id": "907363cc-2e30-4a1f-a344-b5d371c6f2b9",
+        "name_en": "ELECTRONICS",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Basic understanding of microcontroller and sensor module",
+          "description_th": "เข้าใจในการใช้งาน ไมโครคอนโทรลเลอร์และเซนเซอร์โมดูลเบื้องต้น"
+        },
+        "2": {
+          "description_en": "Understanding and able to use UART and interrupts",
+          "description_th": "เข้าใจและสามารถใช้งาน UART และ interrupts"
+        },
+        "3": {
+          "description_en": "Knows how to configure ADC, timer, I2C and SPI",
+          "description_th": "สามารถตั้งค่าใช้งาน ADC, timer I2C และ SPI ได้"
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 3
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 3
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "764f27bc-b135-4d88-9f31-5d97093a1b84",
+          "subject_code": "01076001",
+          "subject_name_en": "INTRODUCTION TO COMPUTER ENGINEERING",
+          "subject_name_th": "วิศวกรรมคอมพิวเตอร์เบื้องต้น",
+          "level": 1
+        },
+        {
+          "subject_id": "01cabd54-34d6-4399-a73b-cdb68dc4ecf4",
+          "subject_code": "01076022",
+          "subject_name_en": "MICROCONTROLLER APPLICATION AND DEVELOPMENT",
+          "subject_name_th": "การประยุกต์และพัฒนาไมโครคอนโทรลเลอร์",
+          "level": 3
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 2,
+        "total_subjects": 2
+      }
+    },
+    {
+      "id": "56417378-ac60-40a5-94e3-ee025ff52190",
+      "name_en": "Network Configuration",
+      "name_th": "การตั้งค่าเครือข่าย",
+      "description_en": "Network configuration is the process of assigning network settings, policies, flows, and controls.",
+      "description_th": "การตั้งค่าเครือข่าย เป็นกระบวนการกำหนดการตั้งค่าเครือข่าย นโยบาย โฟลว์ และการควบคุม บนเครือข่ายเสมือน",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Perform basic configuration  of network components and  monitor user network  access. ",
+          "description_th": "กำหนดค่าพื้นฐานของส่วนประกอบเครือข่ายและตรวจสอบการเข้าถึงเครือข่ายของผู้ใช้ "
+        },
+        "2": {
+          "description_en": "Implement and configure  servers and devices in line  with network blueprint, and  manage user network  access.",
+          "description_th": "ใช้งานและกำหนดค่าเซิร์ฟเวอร์และอุปกรณ์ตามพิมพ์เขียวเครือข่าย และจัดการการเข้าถึงเครือข่ายของผู้ใช้ "
+        },
+        "3": {
+          "description_en": "Evaluate organization network requirements and develop a network configuration blueprint. ",
+          "description_th": "ประเมินความต้องการของเครือข่ายขององค์กรและพัฒนาพิมพ์เขียวการกำหนดค่าเครือข่าย "
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 2
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 1
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 1
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 2
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 1
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 1
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 2
+        },
+        {
+          "subject_id": "2f95fdaa-eef3-4522-ac31-667f29ece68b",
+          "subject_code": "01076027",
+          "subject_name_en": "INTERNETWORKING STANDARDS AND TECHNOLOGIES",
+          "subject_name_th": "มาตรฐานและเทคโนโลยีเครือข่าย",
+          "level": 3
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 8,
+        "total_subjects": 2
+      }
+    },
+    {
+      "id": "9d65ebb6-4478-44b5-a994-04f81f2f1317",
+      "name_en": "Network Infrastructure Design",
+      "name_th": "การวางโครงสร้างระบบเครือข่าย",
+      "description_en": "Processing and management resources of a network that make network or internet connectivity, management, business operations and communication possible, comprises hardware and software enable computing and communication between user or service",
+      "description_th": "ความสามารถในการจัดการระบบเครือข่ายการเชื่อมต่อให้มีประสิทธิภาพทั้งฮาร์ดแวร์ ซอฟต์แวร์เข้าด้วยกัน",
+      "job_field": {
+        "id": "907363cc-2e30-4a1f-a344-b5d371c6f2b9",
+        "name_en": "ELECTRONICS",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "2": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "3": {
+          "description_en": "Translate a broader infrastructure blueprint into technical specifications and develop prototypes for simple infrastructure components",
+          "description_th": "แปล broader infrastructure blueprint เป็น technical specifications และพัฒนาต้นแบบสำหรับ simple infrastructure components"
+        },
+        "4": {
+          "description_en": "Define and deliver technical and conceptual visualization of IT infrastructure components and features",
+          "description_th": "กำหนดและส่งมอบเทคนิคและการสร้างภาพแนวคิดของ IT infrastructure components and features"
+        },
+        "5": {
+          "description_en": "Design infrastructure policies, principles, and evaluating the viability and managing the impact of design options base on requirements.",
+          "description_th": "ออกแบบนโยบายโครงสร้างพื้นฐาน หลักการ และการประเมินความเป็นไปได้และการจัดการผลกระทบของตัวเลือกการออกแบบตามความต้องการ "
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 3
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 3
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 3
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 3
+        },
+        {
+          "subject_id": "2f95fdaa-eef3-4522-ac31-667f29ece68b",
+          "subject_code": "01076027",
+          "subject_name_en": "INTERNETWORKING STANDARDS AND TECHNOLOGIES",
+          "subject_name_th": "มาตรฐานและเทคโนโลยีเครือข่าย",
+          "level": 3
+        },
+        {
+          "subject_id": "1260db9e-000e-4a39-82bb-0e7379db558d",
+          "subject_code": "01076029",
+          "subject_name_en": "SYSTEM PLATFORM ADMINISTRATION",
+          "subject_name_th": "การดูแลแพลทฟอร์มระบบ",
+          "level": 3
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 3,
+        "total_subjects": 3
+      }
+    },
+    {
+      "id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+      "name_en": "Requirement Gathering",
+      "name_th": "การรวบรวมความต้องการ",
+      "description_en": "Requirements gathering is an exploratory process that involves researching and documenting the project’s exact requirements from start to finish.",
+      "description_th": "การรวบรวมความต้องการเป็นกระบวนการสำรวจ ค้นคว้าและจัดทำเอกสารเกี่ยวกับความต้องการที่แท้จริงของโครงการตั้งแต่ต้นจนจบ ",
+      "job_field": {
+        "id": "8b8bf0d7-2150-4295-9808-f893393c6498",
+        "name_en": "ENGINEERING",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Come up with questions regarding missed cases in the spec",
+          "description_th": "ตั้งข้อสงสัยเกี่ยวกับกรณีที่ขาดหายไปในรายการความต้องการ"
+        },
+        "2": {
+          "description_en": "Understand the big picture and determine the key areas that need special attention.",
+          "description_th": "เข้าใจภาพรวมและกำหนดส่วนที่สำคัญที่ต้องการความสนใจเป็นพิเศษ"
+        },
+        "3": {
+          "description_en": "Able to suggest better alternatives and flows to given requirements based on experience",
+          "description_th": "สามารถแนะนำแนวทางและกระบวนการอื่น ๆ ที่ตอบสนองความต้องการได้ดีกว่า โดยอ้างอิงจากประสบการณ์"
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 1
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 2
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 2
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 2
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 2
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 2
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 1
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 2
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        },
+        {
+          "job_id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+          "job_name_en": "UX/UI Designer",
+          "job_name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 3
+        },
+        {
+          "subject_id": "48d89dd0-ac25-4413-807b-e7198ad99c3c",
+          "subject_code": "01076023",
+          "subject_name_en": "COMPUTER HARDWARE DESIGN",
+          "subject_name_th": "การออกแบบทางฮาร์ดแวร์คอมพิวเตอร์",
+          "level": 2
+        },
+        {
+          "subject_id": "82483bb9-f222-4b2d-b50d-7235225bdc2b",
+          "subject_code": "01076008",
+          "subject_name_en": "SOFTWARE DEVELOPMENT PROCESSES",
+          "subject_name_th": "กระบวนการพัฒนาซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 18,
+        "total_subjects": 3
+      }
+    },
+    {
+      "id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+      "name_en": "Software Analysis",
+      "name_th": "การวิเคราะห์ซอฟต์แวร์",
+      "description_en": "An analysis of business procedures or needs, to identify goals and objectives. Create systems and procedures that meet the needs of products and organizations.",
+      "description_th": "การวิเคราะห์ขั้นตอนหรือความต้องการทางธุรกิจเพื่อระบุเป้าหมายและวัตถุประสงค์ สร้างระบบและขั้นตอนที่ตอบสนองความต้องการของผลิตภัณฑ์และองค์กร",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Analyze whether the requirements or method can meet the business or product needs.",
+          "description_th": "วิเคราะห์ว่าความต้องการหรือวิธีการสามารถตอบโจทย์ทางธุรกิจหรือผลิตภัณฑ์"
+        },
+        "2": {
+          "description_en": "Use specification datas to help analyze and evaluate the system's resource, request, response rate, etc.",
+          "description_th": "ใช้ข้อมูล specification ต่าง ๆ มาช่วยในการวิเคราะห์ และประเมิน resource, request และ response rate ของระบบได้"
+        },
+        "3": {
+          "description_en": "Use tools to analyze more accurately such as simulating or creating prototype.",
+          "description_th": "ใช้เครื่องมือมาช่วยวิเคราะห์ให้แม่นยำยิ่งขึ้น เช่นทำการจำลองหรือสร้างผลิตภัณฑ์ต้นแบบ"
+        },
+        "4": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 2
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 2
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 1
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 1
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 1
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "92ac0638-12e9-4db0-b720-4c82393bd4d0",
+          "subject_code": "01076015",
+          "subject_name_en": "COMPUTER ENGINEERING PROFESSIONAL DEVELOPMENT",
+          "subject_name_th": "การพัฒนาทักษะทางวิชาชีพวิศวกรรมคอมพิวเตอร์",
+          "level": 3
+        },
+        {
+          "subject_id": "9dbc0762-d83b-4219-8894-f7fa2c37e3c2",
+          "subject_code": "01076024",
+          "subject_name_en": "SOFTWARE ARCHITECTURE AND DESIGN",
+          "subject_name_th": "สถาปัตยกรรมและการออกแบบซอฟต์แวร์",
+          "level": 2
+        },
+        {
+          "subject_id": "82483bb9-f222-4b2d-b50d-7235225bdc2b",
+          "subject_code": "01076008",
+          "subject_name_en": "SOFTWARE DEVELOPMENT PROCESSES",
+          "subject_name_th": "กระบวนการพัฒนาซอฟต์แวร์",
+          "level": 3
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 8,
+        "total_subjects": 3
+      }
+    },
+    {
+      "id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+      "name_en": "Software Tools",
+      "name_th": "เครื่องมือซอฟต์แวร์",
+      "description_en": "Selection and use of various software tools to design, develop, and manage as appropriate to the working environment, projects or organization needs",
+      "description_th": "การเลือกและใช้งานเครื่องมือซอฟต์แวร์ต่าง ๆ ในการออกแบบ พัฒนา จัดการ ตามความเหมาะสมกับสภาพการทำงาน โปรเจค หรือความต้องการขององค์กร",
+      "job_field": {
+        "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+        "name_en": "INFOCOMM TECHNOLOGY",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Know, learnable, or have used the software necessary to work.",
+          "description_th": "รู้จัก เรียนรู้ และเคยใช้ซอฟต์แวร์ที่จำเป็นต่อการทำงาน"
+        },
+        "2": {
+          "description_en": "Understand and are familiar with the chosen software. And utilize it effectively.",
+          "description_th": "เข้าใจและคุ้นเคยในซอร์ฟแวร์ที่เลือกใช้ และใช้งานได้อย่างมีประสิทธิภาพ"
+        },
+        "3": {
+          "description_en": "Use software shortcut keys to increase the fluency in work.",
+          "description_th": "ใช้งานคีย์ลัดของซอฟต์แวร์ เพื่อเพิ่มความคล่องแคล่วในการทำงาน"
+        },
+        "4": {
+          "description_en": "Choose the tool that best meets your needs, or create customized software when needed.",
+          "description_th": "เลือกใช้เครื่องมือที่ตอบสนองความต้องการอย่างมีประสิทธิภาพสูงสุด หรือสร้างซอฟต์แวร์ เฉพาะเพิ่มเติมเมื่อจำเป็น"
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+          "job_name_en": "Data Analytic",
+          "job_name_th": "นักวิเคราะห์ข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "428a302e-3461-4660-850d-08c0c94869dc",
+          "job_name_en": "Data Engineer",
+          "job_name_th": "วิศวกรข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 2
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 3
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 3
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 3
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 2
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 2
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 2
+        },
+        {
+          "job_id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+          "job_name_en": "Machine Learning Engineer",
+          "job_name_th": "วิศวกรแมชชีนเลิร์นนิง",
+          "required_level": 2
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 3
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 3
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 3
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        },
+        {
+          "job_id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+          "job_name_en": "UX/UI Designer",
+          "job_name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+          "required_level": 3
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 4
+        },
+        {
+          "subject_id": "c31f49c9-034d-4de7-9778-641b3405d446",
+          "subject_code": "01076014",
+          "subject_name_en": "COMPUTER ENGINEERING PROJECT PREPARATION",
+          "subject_name_th": "การเตรียมโครงงานวิศวกรรมคอมพิวเตอร์",
+          "level": 1
+        },
+        {
+          "subject_id": "48d89dd0-ac25-4413-807b-e7198ad99c3c",
+          "subject_code": "01076023",
+          "subject_name_en": "COMPUTER HARDWARE DESIGN",
+          "subject_name_th": "การออกแบบทางฮาร์ดแวร์คอมพิวเตอร์",
+          "level": 2
+        },
+        {
+          "subject_id": "eb29ef8d-d8a1-493b-a772-81deb1d522c3",
+          "subject_code": "01076010",
+          "subject_name_en": "COMPUTER NETWORKS",
+          "subject_name_th": "เครือข่ายคอมพิวเตอร์",
+          "level": 1
+        },
+        {
+          "subject_id": "70ff9475-521e-4749-a216-0223373732a5",
+          "subject_code": "01076009",
+          "subject_name_en": "COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE",
+          "subject_name_th": "องค์ประกอบคอมพิวเตอร์และภาษาแอสเซมบลี",
+          "level": 1
+        },
+        {
+          "subject_id": "4f3a4b41-5ae0-4bd3-980b-8e9100ca8394",
+          "subject_code": "01076005",
+          "subject_name_en": "DATA STRUCTURES AND ALGORITHM",
+          "subject_name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+          "level": 1
+        },
+        {
+          "subject_id": "faef18ec-36be-4640-a1f8-4353b48e7334",
+          "subject_code": "01076006",
+          "subject_name_en": "DIGITAL SYSTEM FUNDAMENTALS",
+          "subject_name_th": "พื้นฐานระบบดิจิตอล",
+          "level": 2
+        },
+        {
+          "subject_id": "9903597b-b3d4-4d7e-8081-ce01c71da27b",
+          "subject_code": "01076032",
+          "subject_name_en": "ELEMENTARY DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA",
+          "subject_name_th": "สมการอนุพันธ์และพีชคณิตเชิงเส้นพื้นฐาน",
+          "level": 1
+        },
+        {
+          "subject_id": "2f95fdaa-eef3-4522-ac31-667f29ece68b",
+          "subject_code": "01076027",
+          "subject_name_en": "INTERNETWORKING STANDARDS AND TECHNOLOGIES",
+          "subject_name_th": "มาตรฐานและเทคโนโลยีเครือข่าย",
+          "level": 3
+        },
+        {
+          "subject_id": "764f27bc-b135-4d88-9f31-5d97093a1b84",
+          "subject_code": "01076001",
+          "subject_name_en": "INTRODUCTION TO COMPUTER ENGINEERING",
+          "subject_name_th": "วิศวกรรมคอมพิวเตอร์เบื้องต้น",
+          "level": 2
+        },
+        {
+          "subject_id": "f1476297-fd2d-4f99-9c12-eb826d17b80d",
+          "subject_code": "01076051",
+          "subject_name_en": "MICROCONTROLLER PROJECT",
+          "subject_name_th": null,
+          "level": 2
+        },
+        {
+          "subject_id": "1a5819fb-d84f-42ca-bcc8-00f6cbfc1710",
+          "subject_code": "01076004",
+          "subject_name_en": "OBJECT ORIENTED PROGRAMMING",
+          "subject_name_th": "การเขียนโปรแกรมเชิงวัตถุ",
+          "level": 1
+        },
+        {
+          "subject_id": "17d7b1e5-609f-4ce4-8f37-d759f49a917c",
+          "subject_code": "01076011",
+          "subject_name_en": "OPERATING SYSTEMS",
+          "subject_name_th": "ระบบปฎิบัติการ",
+          "level": 1
+        },
+        {
+          "subject_id": "bcb1e180-26be-4394-8cc9-6eee0a180b1c",
+          "subject_code": "01076002",
+          "subject_name_en": "PROGRAMMING FUNDAMENTAL",
+          "subject_name_th": "พื้นฐานการเขียนโปรแกรมคอมพิวเตอร์",
+          "level": 1
+        },
+        {
+          "subject_id": "82483bb9-f222-4b2d-b50d-7235225bdc2b",
+          "subject_code": "01076008",
+          "subject_name_en": "SOFTWARE DEVELOPMENT PROCESSES",
+          "subject_name_th": "กระบวนการพัฒนาซอฟต์แวร์",
+          "level": 1
+        },
+        {
+          "subject_id": "b2659859-b788-449c-b2b8-797a1bd6e760",
+          "subject_code": "01076025",
+          "subject_name_en": "SOFTWARE STUDIO",
+          "subject_name_th": "สตูดิโอซอฟต์แวร์",
+          "level": 2
+        },
+        {
+          "subject_id": "1260db9e-000e-4a39-82bb-0e7379db558d",
+          "subject_code": "01076029",
+          "subject_name_en": "SYSTEM PLATFORM ADMINISTRATION",
+          "subject_name_th": "การดูแลแพลทฟอร์มระบบ",
+          "level": 2
+        },
+        {
+          "subject_id": "4b423f1d-c6c9-4d9e-ac67-3c1544308ea4",
+          "subject_code": "01076026",
+          "subject_name_en": "USER EXPERIENCE AND USER INTERFACE DESIGN",
+          "subject_name_th": "การออกแบบประสบการณ์และส่วนติดต่อผู้ใช้",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 19,
+        "total_subjects": 18
+      }
+    },
+    {
+      "id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+      "name_en": "Testing & Quality Assurance",
+      "name_th": "การทดสอบ และ การประกันคุณภาพ",
+      "description_en": "Test, reproduce for verifying function or feature from software work correctly",
+      "description_th": "ความสามารถในการทดสอบ, หาข้อผิดพลาด, พิสูจน์กระบวนการทำงานฟังก์ชันหรือส่วนงานบนซอฟต์แวร์ว่าเป็นไปอย่างถูกต้อง",
+      "job_field": {
+        "id": "8b8bf0d7-2150-4295-9808-f893393c6498",
+        "name_en": "ENGINEERING",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "Write good test cases and test procedure. Do manual testing.",
+          "description_th": "เขียนกรณีที่ใช้ในการทดสอบและวิธีการทดสอบได้อย่างครอบคลุม และทดสอบด้วยตนเองได้"
+        },
+        "2": {
+          "description_en": "Has written automated unit tests and comes up with good unit test cases for the code that is being written",
+          "description_th": "เขียน script unit test ได้"
+        },
+        "3": {
+          "description_en": "Has written code in TDD manner",
+          "description_th": "ใช้กระบวนการ Test driven development"
+        },
+        "4": {
+          "description_en": "Understands and is able to setup automated functional, load/performance and UI tests",
+          "description_th": "เข้าใจการ setup automated functional, load, performance และ UI ที่ใช้ test"
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+          "job_name_en": "Back-End  Developer",
+          "job_name_th": "นักพัฒนาแบ็กเอนด์",
+          "required_level": 3
+        },
+        {
+          "job_id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+          "job_name_en": "Database Admin",
+          "job_name_th": "ผู้ดูแลฐานข้อมูล",
+          "required_level": 1
+        },
+        {
+          "job_id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+          "job_name_en": "Desktop Application Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป",
+          "required_level": 2
+        },
+        {
+          "job_id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+          "job_name_en": "DevOps Engineer",
+          "job_name_th": "วิศวกรเดฟออปส์",
+          "required_level": 3
+        },
+        {
+          "job_id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+          "job_name_en": "Embedded System Engineer",
+          "job_name_th": "วิศวกรระบบฝังตัว",
+          "required_level": 1
+        },
+        {
+          "job_id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+          "job_name_en": "Front-End Developer",
+          "job_name_th": "นักพัฒนาฟรอนท์เอนด์",
+          "required_level": 2
+        },
+        {
+          "job_id": "100f7319-0c34-49b7-af82-cc471414ca48",
+          "job_name_en": "Full-Stack Developer",
+          "job_name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน",
+          "required_level": 3
+        },
+        {
+          "job_id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+          "job_name_en": "IT Support",
+          "job_name_th": "ไอทีซัพพอร์ท",
+          "required_level": 1
+        },
+        {
+          "job_id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+          "job_name_en": "IoT Engineer",
+          "job_name_th": "วิศวกร ไอ โอ ที",
+          "required_level": 1
+        },
+        {
+          "job_id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+          "job_name_en": "Mobile Developer",
+          "job_name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน",
+          "required_level": 2
+        },
+        {
+          "job_id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+          "job_name_en": "Network Engineer",
+          "job_name_th": "วิศวกรเครือข่าย",
+          "required_level": 2
+        },
+        {
+          "job_id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+          "job_name_en": "QA Engineer",
+          "job_name_th": "วิศวกรประกันคุณภาพ",
+          "required_level": 3
+        },
+        {
+          "job_id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+          "job_name_en": "Security Engineer",
+          "job_name_th": "วิศวกรความปลอดภัย",
+          "required_level": 2
+        },
+        {
+          "job_id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+          "job_name_en": "Software engineer",
+          "job_name_th": "วิศวกรซอฟต์แวร์",
+          "required_level": 2
+        },
+        {
+          "job_id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+          "job_name_en": "System Engineer",
+          "job_name_th": "วิศวกรระบบ",
+          "required_level": 2
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 3
+        },
+        {
+          "subject_id": "82483bb9-f222-4b2d-b50d-7235225bdc2b",
+          "subject_code": "01076008",
+          "subject_name_en": "SOFTWARE DEVELOPMENT PROCESSES",
+          "subject_name_th": "กระบวนการพัฒนาซอฟต์แวร์",
+          "level": 2
+        },
+        {
+          "subject_id": "088c2e18-e7ac-499c-88b4-aee8060b7ecc",
+          "subject_code": "01076596",
+          "subject_name_en": "SYSTEM REQUIREMENTS ENGINEERING",
+          "subject_name_th": "วิศวกรรมความต้องการของระบบ",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 15,
+        "total_subjects": 3
+      }
+    },
+    {
+      "id": "043559af-c471-481d-9f3a-a9bdefcfcd44",
+      "name_en": "UX/UI Design",
+      "name_th": "การออกแบบหน้าตาและประสบการณ์ของผู้ใช้งาน",
+      "description_en": "Conceptualize and enhance the users' interactions and engagement with products and services by integrating elements of interaction design, information architecture, information design, visual interface design, user assistance design, and user-centered design",
+      "description_th": "กำหนดแนวคิดและปรับปรุงการโต้ตอบของผู้ใช้และการมีส่วนร่วมกับผลิตภัณฑ์และบริการโดยผสมผสานองค์ประกอบของการออกแบบการโต้ตอบ สถาปัตยกรรมข้อมูล การออกแบบข้อมูล การออกแบบส่วนต่อประสานภาพ การออกแบบการให้ความช่วยเหลือผู้ใช้ และการออกแบบที่เน้นผู้ใช้",
+      "job_field": {
+        "id": "b07b438d-74c1-46de-a879-2c3ed61b8125",
+        "name_en": "DESIGN",
+        "name_th": null
+      },
+      "levels": {
+        "1": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "2": {
+          "description_en": "Design User Interface and User Experience elements using sketches, storyboards, wireframes and user flowcharts based on user requirements and expectations",
+          "description_th": "ออกแบบองค์ประกอบหน้าตาและประสบการณ์ผู้ใช้ โดยใช้สเก็ตช์ สตอรีบอร์ด โครงร่างและผังงานของผู้ใช้ตามความต้องการและความคาดหวังของผู้ใช้"
+        },
+        "3": {
+          "description_en": "Develop User Interface and User Experience design concepts, develop user flow charts and drive modifications or enhancements to products and service features",
+          "description_th": "พัฒนาแนวคิดการออกแบบหน้าตาและประสบการณ์ผู้ใช้ พัฒนาผังงานผู้ใช้ และขับเคลื่อนการปรับเปลี่ยนหรือปรับปรุงคุณสมบัติผลิตภัณฑ์และบริการ"
+        },
+        "4": {
+          "description_en": "Formulate guiding principles and philosophies of the User Interface and User Experience by guiding teams on key design decisions, functionalities and technical and financial viability",
+          "description_th": "กำหนดหลักการชี้นำและปรัชญาของหน้าตาและประสบการณ์ผู้ใช้ โดยแนะนำทีมเกี่ยวกับการตัดสินใจในการออกแบบที่สำคัญ ฟังก์ชันการทำงาน และความสามารถทางเทคนิคและการเงิน"
+        },
+        "5": {
+          "description_en": "",
+          "description_th": ""
+        },
+        "6": {
+          "description_en": "",
+          "description_th": ""
+        }
+      },
+      "related_jobs": [
+        {
+          "job_id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+          "job_name_en": "UX/UI Designer",
+          "job_name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้",
+          "required_level": 3
+        }
+      ],
+      "related_subjects": [
+        {
+          "subject_id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+          "subject_code": "01006029",
+          "subject_name_en": "CO-OPERATIVE EDUCATION",
+          "subject_name_th": "สหกิจศึกษา",
+          "level": 4
+        },
+        {
+          "subject_id": "e0d78a9a-ed5b-4c27-904f-6c761c0b2011",
+          "subject_code": "01076568",
+          "subject_name_en": "HUMAN COMPUTER INTERACTION",
+          "subject_name_th": "การปฏิสัมพันธ์ระหว่างมนุษย์และคอมพิวเตอร์",
+          "level": 2
+        },
+        {
+          "subject_id": "4b423f1d-c6c9-4d9e-ac67-3c1544308ea4",
+          "subject_code": "01076026",
+          "subject_name_en": "USER EXPERIENCE AND USER INTERFACE DESIGN",
+          "subject_name_th": "การออกแบบประสบการณ์และส่วนติดต่อผู้ใช้",
+          "level": 2
+        }
+      ],
+      "stats": {
+        "total_levels": 6,
+        "total_jobs": 1,
+        "total_subjects": 3
+      }
+    }
+  ]
+}

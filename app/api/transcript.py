@@ -88,3 +88,29 @@ async def analyze_uploaded_transcript(file_id: str):
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error analyzing transcript: {str(e)}")
+
+
+@router.post("/analyze-debug")
+async def analyze_transcript_debug(file: UploadFile = File(...)):
+    """Upload and analyze transcript with debug information (for teachers)"""
+    try:
+        # Validate file type
+        if not file.filename.endswith('.pdf'):
+            raise HTTPException(status_code=400, detail="Only PDF files are supported")
+
+        # Generate unique file ID
+        file_id = str(uuid4())
+        file_extension = ".pdf"
+        file_path = os.path.join(settings.UPLOAD_DIR, f"{file_id}{file_extension}")
+
+        # Save file
+        with open(file_path, "wb") as buffer:
+            shutil.copyfileobj(file.file, buffer)
+
+        # Analyze transcript with debug info
+        result = analyzer.analyze_debug(file_path)
+
+        return JSONResponse(content=result)
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error analyzing transcript: {str(e)}")

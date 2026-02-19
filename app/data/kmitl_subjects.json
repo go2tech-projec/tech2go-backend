@@ -1,0 +1,2021 @@
+{
+  "metadata": {
+    "source": "https://skill-mapping-hasura.aegis.aginix.tech/v1/graphql",
+    "curriculum_id": "01007",
+    "total_subjects": 108,
+    "crawled_at": "2026-02-20T02:50:19.903313"
+  },
+  "subjects": [
+    {
+      "id": "3d6552ef-e6cf-4637-a569-46cc20bf93d1",
+      "code": "01006029",
+      "name_en": "CO-OPERATIVE EDUCATION",
+      "name_th": "สหกิจศึกษา",
+      "hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "level": 2
+        },
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "level": 3
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 1
+        },
+        {
+          "skill_id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 5
+        },
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "level": 1
+        },
+        {
+          "skill_id": "15ed36da-e035-44d6-9c5d-892eb87c59cd",
+          "skill_name_en": "Data Analysis",
+          "skill_name_th": "การวิเคราะห์ข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "level": 3
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "level": 2
+        },
+        {
+          "skill_id": "b4408a3d-1404-4273-9d99-60f12c9aa354",
+          "skill_name_en": "Economic and Entrepreneurship Skill",
+          "skill_name_th": "ทักษะทางด้านเศรษฐศาสตร์และประกอบการ",
+          "level": 4
+        },
+        {
+          "skill_id": "a6734bf0-0aa2-41fe-8a97-d34ab471436f",
+          "skill_name_en": "Electrical System Design Skill",
+          "skill_name_th": "ทักษะการออกแบบระบบไฟฟ้า",
+          "level": 6
+        },
+        {
+          "skill_id": "bb14ce4d-670f-4db9-a81c-63916bf8764e",
+          "skill_name_en": "Electrical measurement, instrument and Maintenance Skill",
+          "skill_name_th": "ทักษะทางด้านการใช้เครื่องมือทางไฟฟ้าและการบำรุงรักษา",
+          "level": 4
+        },
+        {
+          "skill_id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 2
+        },
+        {
+          "skill_id": "476f5837-fb21-45dd-83c7-7427018199c0",
+          "skill_name_en": "Energy Management and Audit Skill",
+          "skill_name_th": "ทักษะการบริหารจัดการตรวจสอบและรับรองการใช้พลังงาน",
+          "level": 6
+        },
+        {
+          "skill_id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "level": 2
+        },
+        {
+          "skill_id": "9d65ebb6-4478-44b5-a994-04f81f2f1317",
+          "skill_name_en": "Network Infrastructure Design",
+          "skill_name_th": "การวางโครงสร้างระบบเครือข่าย",
+          "level": 3
+        },
+        {
+          "skill_id": "1269adb9-1de6-4bb5-856b-dced4c818814",
+          "skill_name_en": "Project management ",
+          "skill_name_th": "การบริหารโครงการ",
+          "level": 3
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "level": 3
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 4
+        },
+        {
+          "skill_id": "85204fed-2fd4-4293-8ea1-df81118600f4",
+          "skill_name_en": "Technical Presentation Skills ",
+          "skill_name_th": "ทักษะการนำเสนอทางเทคนิค",
+          "level": 4
+        },
+        {
+          "skill_id": "6bf8d323-8a35-4bbd-a390-7e6b455732b3",
+          "skill_name_en": "Technical Report Writing",
+          "skill_name_th": "การเขียนรายงานเชิงเทคนิค",
+          "level": 4
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "level": 3
+        },
+        {
+          "skill_id": "043559af-c471-481d-9f3a-a9bdefcfcd44",
+          "skill_name_en": "UX/UI Design",
+          "skill_name_th": "การออกแบบหน้าตาและประสบการณ์ของผู้ใช้งาน",
+          "level": 4
+        }
+      ],
+      "soft_skills": [
+        {
+          "skill_id": "e6f4a302-8996-4a6c-af95-d036f0050d23",
+          "skill_name_en": "Active Learning & Learning Strategies",
+          "skill_name_th": null,
+          "level": 2
+        },
+        {
+          "skill_id": "04a4362f-ddc3-4601-b64e-b913b209c517",
+          "skill_name_en": "Analytical & Critical Thinking",
+          "skill_name_th": null,
+          "level": 3
+        },
+        {
+          "skill_id": "1251bd0d-2dec-4585-a6ec-5c9cbd0bd656",
+          "skill_name_en": "Communication",
+          "skill_name_th": null,
+          "level": 2
+        },
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "level": 3
+        },
+        {
+          "skill_id": "4c180124-768c-4994-978d-3aeab6dc04b1",
+          "skill_name_en": "Creativity",
+          "skill_name_th": null,
+          "level": 3
+        },
+        {
+          "skill_id": "80f8f9bd-fd02-449f-b0f8-bfb44efa7416",
+          "skill_name_en": "Digital quotience literacy & Digital media Production",
+          "skill_name_th": null,
+          "level": 2
+        },
+        {
+          "skill_id": "30049be3-3bbf-4ff4-83f6-51ec4884fc7c",
+          "skill_name_en": "Entrepreneurship & Startup",
+          "skill_name_th": null,
+          "level": 2
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "level": 3
+        },
+        {
+          "skill_id": "8a1e4cb2-6030-40c8-9998-1e4884329569",
+          "skill_name_en": "Interpersonal Skills",
+          "skill_name_th": null,
+          "level": 3
+        },
+        {
+          "skill_id": "68c254fb-6064-40f3-a96b-b56a86547bbc",
+          "skill_name_en": "Leadership & Social Influence",
+          "skill_name_th": null,
+          "level": 2
+        },
+        {
+          "skill_id": "c4998450-a71c-45b7-bda7-523d04c97b8c",
+          "skill_name_en": "Resilience, Stress tolerance & Flexibility",
+          "skill_name_th": null,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "764f27bc-b135-4d88-9f31-5d97093a1b84",
+      "code": "01076001",
+      "name_en": "INTRODUCTION TO COMPUTER ENGINEERING",
+      "name_th": "วิศวกรรมคอมพิวเตอร์เบื้องต้น",
+      "hard_skills": [
+        {
+          "skill_id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 1
+        },
+        {
+          "skill_id": "ca62a4fb-de58-4b25-8cb4-80de3b091460",
+          "skill_name_en": "Microcontroller",
+          "skill_name_th": "ความรู้เกี่ยวกับไมโครคอนโทรลเลอร์",
+          "level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "bcb1e180-26be-4394-8cc9-6eee0a180b1c",
+      "code": "01076002",
+      "name_en": "PROGRAMMING FUNDAMENTAL",
+      "name_th": "พื้นฐานการเขียนโปรแกรมคอมพิวเตอร์",
+      "hard_skills": [
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 2
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "249bb3b0-a3ad-486e-88f2-8e77a1c372f1",
+      "code": "01076003",
+      "name_en": "CIRCUITS AND ELECTRONICS",
+      "name_th": "วงจรไฟฟ้าและอิเล็กทรอนิกส์",
+      "hard_skills": [
+        {
+          "skill_id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "1a5819fb-d84f-42ca-bcc8-00f6cbfc1710",
+      "code": "01076004",
+      "name_en": "OBJECT ORIENTED PROGRAMMING",
+      "name_th": "การเขียนโปรแกรมเชิงวัตถุ",
+      "hard_skills": [
+        {
+          "skill_id": "e78fea18-c554-42e7-8b8f-511da9679af0",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "level": 1
+        },
+        {
+          "skill_id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 3
+        },
+        {
+          "skill_id": "2bafa8b6-f099-4d24-b1fe-b628d20b8315",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 4
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "f23eff6c-ed35-4612-b3ec-42afd9f3d3d4",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 1
+        },
+        {
+          "skill_id": "4e213e77-6ef6-4208-9a13-f92282e27ea5",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "4f3a4b41-5ae0-4bd3-980b-8e9100ca8394",
+      "code": "01076005",
+      "name_en": "DATA STRUCTURES AND ALGORITHM",
+      "name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+      "hard_skills": [
+        {
+          "skill_id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "level": 2
+        },
+        {
+          "skill_id": "e78fea18-c554-42e7-8b8f-511da9679af0",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "level": 3
+        },
+        {
+          "skill_id": "2bafa8b6-f099-4d24-b1fe-b628d20b8315",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 5
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "level": 3
+        },
+        {
+          "skill_id": "f23eff6c-ed35-4612-b3ec-42afd9f3d3d4",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "level": 3
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "faef18ec-36be-4640-a1f8-4353b48e7334",
+      "code": "01076006",
+      "name_en": "DIGITAL SYSTEM FUNDAMENTALS",
+      "name_th": "พื้นฐานระบบดิจิตอล",
+      "hard_skills": [
+        {
+          "skill_id": "780d038d-e50d-4a79-ba44-367fd4c2e2bb",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 1
+        },
+        {
+          "skill_id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "b7efc52d-986c-4214-99ad-ac3123ba71f4",
+      "code": "01076007",
+      "name_en": "DATA COMMUNICATIONS",
+      "name_th": "การสื่อสารข้อมูล",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "82483bb9-f222-4b2d-b50d-7235225bdc2b",
+      "code": "01076008",
+      "name_en": "SOFTWARE DEVELOPMENT PROCESSES",
+      "name_th": "กระบวนการพัฒนาซอฟต์แวร์",
+      "hard_skills": [
+        {
+          "skill_id": "c4a33a07-708e-4085-8992-5defd66b6a90",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "level": 1
+        },
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "level": 1
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 1
+        },
+        {
+          "skill_id": "e18d70fe-3896-4cfc-bd4b-0160e7a95e52",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 1
+        },
+        {
+          "skill_id": "2e25d9ef-1a11-4f71-bdd9-e21c91a80513",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "level": 2
+        },
+        {
+          "skill_id": "97edfea9-2373-458e-90e9-112024654840",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "level": 2
+        },
+        {
+          "skill_id": "70011e19-393d-457b-82db-cf944174929a",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "level": 3
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "level": 3
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 1
+        },
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "level": 2
+        },
+        {
+          "skill_id": "78fe79fb-568b-443b-9cac-de8030b97c6e",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "70ff9475-521e-4749-a216-0223373732a5",
+      "code": "01076009",
+      "name_en": "COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE",
+      "name_th": "องค์ประกอบคอมพิวเตอร์และภาษาแอสเซมบลี",
+      "hard_skills": [
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "eb29ef8d-d8a1-493b-a772-81deb1d522c3",
+      "code": "01076010",
+      "name_en": "COMPUTER NETWORKS",
+      "name_th": "เครือข่ายคอมพิวเตอร์",
+      "hard_skills": [
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "17d7b1e5-609f-4ce4-8f37-d759f49a917c",
+      "code": "01076011",
+      "name_en": "OPERATING SYSTEMS",
+      "name_th": "ระบบปฎิบัติการ",
+      "hard_skills": [
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "d07bf98e-010c-4080-87bd-c87daa5a4a41",
+      "code": "01076012",
+      "name_en": "DISCRETE STRUCTURE",
+      "name_th": "โครงสร้างแบบดิสครีต",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "146706dd-5141-4360-beb3-510675667ca8",
+      "code": "01076013",
+      "name_en": "THEORY OF COMPUTATION",
+      "name_th": "ทฤษฎีการคํานวณ",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "c31f49c9-034d-4de7-9778-641b3405d446",
+      "code": "01076014",
+      "name_en": "COMPUTER ENGINEERING PROJECT PREPARATION",
+      "name_th": "การเตรียมโครงงานวิศวกรรมคอมพิวเตอร์",
+      "hard_skills": [
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "92ac0638-12e9-4db0-b720-4c82393bd4d0",
+      "code": "01076015",
+      "name_en": "COMPUTER ENGINEERING PROFESSIONAL DEVELOPMENT",
+      "name_th": "การพัฒนาทักษะทางวิชาชีพวิศวกรรมคอมพิวเตอร์",
+      "hard_skills": [
+        {
+          "skill_id": "70011e19-393d-457b-82db-cf944174929a",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "level": 3
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "level": 3
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "4ce6e6f9-74ce-43fd-9faa-c420db82f87d",
+      "code": "01076016",
+      "name_en": "COMPUTER ENGINEERING PROJECT PREPARATION",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "3c6ebcb2-8511-4529-ae65-007dae79af62",
+      "code": "01076021",
+      "name_en": "COMPUTER ARCHITECTURE",
+      "name_th": "สถาปัตยกรรมคอมพิวเตอร์",
+      "hard_skills": [
+        {
+          "skill_id": "e18d70fe-3896-4cfc-bd4b-0160e7a95e52",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "01cabd54-34d6-4399-a73b-cdb68dc4ecf4",
+      "code": "01076022",
+      "name_en": "MICROCONTROLLER APPLICATION AND DEVELOPMENT",
+      "name_th": "การประยุกต์และพัฒนาไมโครคอนโทรลเลอร์",
+      "hard_skills": [
+        {
+          "skill_id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 2
+        },
+        {
+          "skill_id": "ca62a4fb-de58-4b25-8cb4-80de3b091460",
+          "skill_name_en": "Microcontroller",
+          "skill_name_th": "ความรู้เกี่ยวกับไมโครคอนโทรลเลอร์",
+          "level": 3
+        },
+        {
+          "skill_id": "25eaa1a6-67de-4c40-89ab-77924e62c36c",
+          "skill_name_en": "Microcontroller",
+          "skill_name_th": "ความรู้เกี่ยวกับไมโครคอนโทรลเลอร์",
+          "level": 3
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "48d89dd0-ac25-4413-807b-e7198ad99c3c",
+      "code": "01076023",
+      "name_en": "COMPUTER HARDWARE DESIGN",
+      "name_th": "การออกแบบทางฮาร์ดแวร์คอมพิวเตอร์",
+      "hard_skills": [
+        {
+          "skill_id": "b81a6e24-9ea0-426d-8461-ea30b8f94484",
+          "skill_name_en": "Design Verification",
+          "skill_name_th": "การตรวจสอบการออกแบบ",
+          "level": 3
+        },
+        {
+          "skill_id": "f6688e74-c4e1-44ae-9452-a0be202ba3aa",
+          "skill_name_en": "Design Verification",
+          "skill_name_th": "การตรวจสอบการออกแบบ",
+          "level": 3
+        },
+        {
+          "skill_id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 4
+        },
+        {
+          "skill_id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "9dbc0762-d83b-4219-8894-f7fa2c37e3c2",
+      "code": "01076024",
+      "name_en": "SOFTWARE ARCHITECTURE AND DESIGN",
+      "name_th": "สถาปัตยกรรมและการออกแบบซอฟต์แวร์",
+      "hard_skills": [
+        {
+          "skill_id": "c4a33a07-708e-4085-8992-5defd66b6a90",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "level": 1
+        },
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "level": 1
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 2
+        },
+        {
+          "skill_id": "e18d70fe-3896-4cfc-bd4b-0160e7a95e52",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 2
+        },
+        {
+          "skill_id": "97edfea9-2373-458e-90e9-112024654840",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "level": 2
+        },
+        {
+          "skill_id": "70011e19-393d-457b-82db-cf944174929a",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "level": 2
+        },
+        {
+          "skill_id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "b2659859-b788-449c-b2b8-797a1bd6e760",
+      "code": "01076025",
+      "name_en": "SOFTWARE STUDIO",
+      "name_th": "สตูดิโอซอฟต์แวร์",
+      "hard_skills": [
+        {
+          "skill_id": "c4a33a07-708e-4085-8992-5defd66b6a90",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "level": 1
+        },
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "level": 1
+        },
+        {
+          "skill_id": "e18d70fe-3896-4cfc-bd4b-0160e7a95e52",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 1
+        },
+        {
+          "skill_id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 1
+        },
+        {
+          "skill_id": "2e25d9ef-1a11-4f71-bdd9-e21c91a80513",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "97edfea9-2373-458e-90e9-112024654840",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "level": 2
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "4b423f1d-c6c9-4d9e-ac67-3c1544308ea4",
+      "code": "01076026",
+      "name_en": "USER EXPERIENCE AND USER INTERFACE DESIGN",
+      "name_th": "การออกแบบประสบการณ์และส่วนติดต่อผู้ใช้",
+      "hard_skills": [
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        },
+        {
+          "skill_id": "043559af-c471-481d-9f3a-a9bdefcfcd44",
+          "skill_name_en": "UX/UI Design",
+          "skill_name_th": "การออกแบบหน้าตาและประสบการณ์ของผู้ใช้งาน",
+          "level": 2
+        },
+        {
+          "skill_id": "d69e08c4-b808-4f16-93fb-f474f9aac594",
+          "skill_name_en": "UX/UI Design",
+          "skill_name_th": "การออกแบบหน้าตาและประสบการณ์ของผู้ใช้งาน",
+          "level": 4
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "2f95fdaa-eef3-4522-ac31-667f29ece68b",
+      "code": "01076027",
+      "name_en": "INTERNETWORKING STANDARDS AND TECHNOLOGIES",
+      "name_th": "มาตรฐานและเทคโนโลยีเครือข่าย",
+      "hard_skills": [
+        {
+          "skill_id": "f59f9728-1fb7-4a6a-b4b7-23c7235a26eb",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "level": 3
+        },
+        {
+          "skill_id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "level": 3
+        },
+        {
+          "skill_id": "785fc1ad-a15e-4e60-91c6-72e9e1cb9667",
+          "skill_name_en": "Network Infrastructure Design",
+          "skill_name_th": "การวางโครงสร้างระบบเครือข่าย",
+          "level": 3
+        },
+        {
+          "skill_id": "9d65ebb6-4478-44b5-a994-04f81f2f1317",
+          "skill_name_en": "Network Infrastructure Design",
+          "skill_name_th": "การวางโครงสร้างระบบเครือข่าย",
+          "level": 3
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 3
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "6bfe4c26-8b39-44cf-adb5-73440fefdf0b",
+      "code": "01076028",
+      "name_en": "INFORMATION AND COMPUTER SECURITY",
+      "name_th": "ความมั่นคงข้อมูลและคอมพิวเตอร์",
+      "hard_skills": [
+        {
+          "skill_id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "level": 1
+        },
+        {
+          "skill_id": "6594f550-d505-4fc8-af2e-3e5a3f51f2f9",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "1260db9e-000e-4a39-82bb-0e7379db558d",
+      "code": "01076029",
+      "name_en": "SYSTEM PLATFORM ADMINISTRATION",
+      "name_th": "การดูแลแพลทฟอร์มระบบ",
+      "hard_skills": [
+        {
+          "skill_id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "level": 1
+        },
+        {
+          "skill_id": "785fc1ad-a15e-4e60-91c6-72e9e1cb9667",
+          "skill_name_en": "Network Infrastructure Design",
+          "skill_name_th": "การวางโครงสร้างระบบเครือข่าย",
+          "level": 3
+        },
+        {
+          "skill_id": "9d65ebb6-4478-44b5-a994-04f81f2f1317",
+          "skill_name_en": "Network Infrastructure Design",
+          "skill_name_th": "การวางโครงสร้างระบบเครือข่าย",
+          "level": 3
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "926bc8f4-de49-459d-a745-c9779206c24c",
+      "code": "01076031",
+      "name_en": "CALCULUS",
+      "name_th": "แคลคูลัส",
+      "hard_skills": [],
+      "soft_skills": [
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "9903597b-b3d4-4d7e-8081-ce01c71da27b",
+      "code": "01076032",
+      "name_en": "ELEMENTARY DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA",
+      "name_th": "สมการอนุพันธ์และพีชคณิตเชิงเส้นพื้นฐาน",
+      "hard_skills": [
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "65453578-9165-44bc-aa76-57f1b1e7939c",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 1
+        }
+      ],
+      "soft_skills": [
+        {
+          "skill_id": "2afd5281-fb40-4b73-a030-a186a5d7e946",
+          "skill_name_en": "Complex problem solving",
+          "skill_name_th": null,
+          "level": 3
+        },
+        {
+          "skill_id": "ccbe1f39-75d6-47a9-9ef4-dad43a20fcb2",
+          "skill_name_en": "Integrity & Perserverance",
+          "skill_name_th": null,
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "7d7782b9-ba7e-4aae-bde5-e53dbc8e3c0d",
+      "code": "01076034",
+      "name_en": "PRINCIPLES OF SOFTWARE DEVELOPMENT PROCESS",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "4f8e08e4-d0dd-400a-8f3f-a9490d73dcb9",
+      "code": "01076035",
+      "name_en": "SOFTWARE DEVELOPMENT PROCESS IN PRACTICE",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "c4a33a07-708e-4085-8992-5defd66b6a90",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "level": 1
+        },
+        {
+          "skill_id": "e18d70fe-3896-4cfc-bd4b-0160e7a95e52",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 1
+        },
+        {
+          "skill_id": "97edfea9-2373-458e-90e9-112024654840",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "level": 2
+        },
+        {
+          "skill_id": "70011e19-393d-457b-82db-cf944174929a",
+          "skill_name_en": "Software Analysis",
+          "skill_name_th": "การวิเคราะห์ซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "f01adbfe-16e8-40cc-8b52-3fd7b9d730fe",
+      "code": "01076036",
+      "name_en": "USER EXPERIENCE AND USER INTERFACE DESIGN",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "b44b6005-0b86-4f3a-96d3-8390fdf72caa",
+      "code": "01076037",
+      "name_en": "USER EXPERIENCE AND USER INTERFACE PROJECT",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "eec34dda-cb16-4828-b813-199b5de9169a",
+      "code": "01076040",
+      "name_en": "INTERNETWORKING STANDARDS AND TECHNOLOGIES",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "d26ca238-f176-4bdd-a0c0-55d5b0a483b3",
+      "code": "01076041",
+      "name_en": "INTERNETWORKING STANDARDS AND TECHNOLOGIES IN PRACTICE",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "f59f9728-1fb7-4a6a-b4b7-23c7235a26eb",
+          "skill_name_en": "Network Configuration",
+          "skill_name_th": "การตั้งค่าเครือข่าย",
+          "level": 3
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "35a14a0e-43f4-4d79-8a6e-1e41b60730fe",
+      "code": "01076043",
+      "name_en": "INTRODUCTION TO CLOUD ARCHITECTURE",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "e18d70fe-3896-4cfc-bd4b-0160e7a95e52",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 1
+        },
+        {
+          "skill_id": "c4be49b5-0956-423f-95c0-9c82d4509fe1",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "level": 1
+        },
+        {
+          "skill_id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "78218586-0f97-439a-a8c8-ce9af07c7908",
+      "code": "01076044",
+      "name_en": "INTRODUCTION TO CLOUD ARCHITECTURE IN PRACTICE",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "c4be49b5-0956-423f-95c0-9c82d4509fe1",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "a18aee83-0433-4ae6-b06c-7be873641d3f",
+      "code": "01076050",
+      "name_en": "MICROCONTROLLER APPLICATION AND DEVELOPMENT",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "f1476297-fd2d-4f99-9c12-eb826d17b80d",
+      "code": "01076051",
+      "name_en": "MICROCONTROLLER PROJECT",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "25eaa1a6-67de-4c40-89ab-77924e62c36c",
+          "skill_name_en": "Microcontroller",
+          "skill_name_th": "ความรู้เกี่ยวกับไมโครคอนโทรลเลอร์",
+          "level": 3
+        },
+        {
+          "skill_id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "91ba47ff-b45f-448b-99ea-868c0d34aaef",
+      "code": "01076052",
+      "name_en": "REAL-TIME EMBEDDED SYSTEMS ",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "b2fe15ed-a26b-4817-adf0-475cd36ad57d",
+      "code": "01076053",
+      "name_en": "INTERNET OF THINGS AND SMART SYSTEMS",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "8645067d-d65b-4809-8d10-b3646040bd5b",
+      "code": "01076101",
+      "name_en": "INTRODUCTION TO COMPUTER ENGINEERING",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "23abf454-c8d8-43cf-9a51-662e87a81656",
+      "code": "01076103",
+      "name_en": "PROGRAMMING FUNDAMENTAL",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "e78fea18-c554-42e7-8b8f-511da9679af0",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "level": 1
+        },
+        {
+          "skill_id": "2bafa8b6-f099-4d24-b1fe-b628d20b8315",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 2
+        },
+        {
+          "skill_id": "f23eff6c-ed35-4612-b3ec-42afd9f3d3d4",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "4e213e77-6ef6-4208-9a13-f92282e27ea5",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "bd07a898-b01a-4bd3-b870-1211ece6508e",
+      "code": "01076104",
+      "name_en": "PROGRAMMING PROJECT",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "e78fea18-c554-42e7-8b8f-511da9679af0",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "level": 1
+        },
+        {
+          "skill_id": "2bafa8b6-f099-4d24-b1fe-b628d20b8315",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 2
+        },
+        {
+          "skill_id": "4e213e77-6ef6-4208-9a13-f92282e27ea5",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "5e90cbfd-e5be-4214-989e-1816739eaa51",
+      "code": "01076105",
+      "name_en": "OBJECT ORIENTED PROGRAMMING",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "e78fea18-c554-42e7-8b8f-511da9679af0",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "level": 1
+        },
+        {
+          "skill_id": "2bafa8b6-f099-4d24-b1fe-b628d20b8315",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 4
+        },
+        {
+          "skill_id": "4e213e77-6ef6-4208-9a13-f92282e27ea5",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "70e056dd-9b10-48e4-a7fa-41ae6419bd1b",
+      "code": "01076106",
+      "name_en": "OBJECT ORIENTED PROGRAMMING PROJECT",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "e78fea18-c554-42e7-8b8f-511da9679af0",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "level": 1
+        },
+        {
+          "skill_id": "2bafa8b6-f099-4d24-b1fe-b628d20b8315",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 4
+        },
+        {
+          "skill_id": "4e213e77-6ef6-4208-9a13-f92282e27ea5",
+          "skill_name_en": "Software Tools",
+          "skill_name_th": "เครื่องมือซอฟต์แวร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "dddeeb93-e235-45a2-9d12-72ab296109ec",
+      "code": "01076107",
+      "name_en": "CIRCUITS AND ELECTRONICS",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "e7528f9f-04dd-45a8-8267-3b5c57378c48",
+      "code": "01076108",
+      "name_en": "CIRCUITS AND ELECTRONICS IN PRACTICE",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "4131b1ed-1a88-464c-9a91-f59aed76cda3",
+      "code": "01076109",
+      "name_en": "OBJECT ORIENTED DATA STRUCTURES",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "e78fea18-c554-42e7-8b8f-511da9679af0",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "level": 2
+        },
+        {
+          "skill_id": "2bafa8b6-f099-4d24-b1fe-b628d20b8315",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 4
+        },
+        {
+          "skill_id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "level": 2
+        },
+        {
+          "skill_id": "f23eff6c-ed35-4612-b3ec-42afd9f3d3d4",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "level": 3
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "447b27e7-a4b2-4149-9eba-5db1667f17ad",
+      "code": "01076110",
+      "name_en": "OBJECT ORIENTED DATA STRUCTURES PROJECT",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "e78fea18-c554-42e7-8b8f-511da9679af0",
+          "skill_name_en": "Algorithms",
+          "skill_name_th": " อัลกอริทึม",
+          "level": 2
+        },
+        {
+          "skill_id": "2bafa8b6-f099-4d24-b1fe-b628d20b8315",
+          "skill_name_en": "Coding",
+          "skill_name_th": "การเขียนโปรแกรม",
+          "level": 4
+        },
+        {
+          "skill_id": "f23eff6c-ed35-4612-b3ec-42afd9f3d3d4",
+          "skill_name_en": "Data Structures",
+          "skill_name_th": "โครงสร้างข้อมูล",
+          "level": 3
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "46d93846-e878-44ba-8fef-dd09b024b0b0",
+      "code": "01076112",
+      "name_en": "DIGITAL SYSTEM FUNDAMENTALS",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "780d038d-e50d-4a79-ba44-367fd4c2e2bb",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "dc2f79b9-b9df-4087-9afe-fb51a283665c",
+      "code": "01076113",
+      "name_en": "DIGITAL SYSTEM FUNDAMENTALS IN PRACTICE",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "780d038d-e50d-4a79-ba44-367fd4c2e2bb",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "4165d7b6-60ae-4e3f-a265-d254842dd864",
+      "code": "01076114",
+      "name_en": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "f0cc5fe8-01e5-4762-bc93-76c1c59d3e83",
+      "code": "01076115",
+      "name_en": "COMPUTER ORGANIZATION IN PRACTICE",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "7b17fa44-8abe-4e3f-ac7d-3ee4fa735351",
+      "code": "01076116",
+      "name_en": "COMPUTER NETWORKS",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "169a75ef-cf99-4eaa-abeb-b61af6c606af",
+      "code": "01076117",
+      "name_en": "COMPUTER NETWORKS IN PRACTICE",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "99230af9-853c-4ef9-8c74-43a9a1a3336d",
+      "code": "01076118",
+      "name_en": "SYSTEM PLATFORM ADMINISTRATION",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "54ffaa80-204e-4bb8-b25e-32f9532b51a7",
+      "code": "01076119",
+      "name_en": "WEB APPLICATION DEVELOPMENT",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "acdd71e3-564f-43e1-afa0-346d7ec26ab1",
+      "code": "01076120",
+      "name_en": "WEB APPLICATION DEVELOPMENT PROJECT",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "25c848d9-8496-45b6-9d6b-96efa94769de",
+      "code": "01076121",
+      "name_en": "THEORY OF COMPUTATION",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "ff38ce8b-0470-4953-990a-de9ba209f113",
+      "code": "01076140",
+      "name_en": "CALCULUS 1",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "f69cd32f-d689-4a78-9a8b-62b9bfc0e31e",
+      "code": "01076141",
+      "name_en": "CALCULUS 2",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "e3e9ca51-2f26-455f-85bd-77a946be2af6",
+      "code": "01076253",
+      "name_en": "PROBABILITY AND STATISTICS",
+      "name_th": "ความน่าจะเป็นและสถิติ",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "86e16310-84c1-4f4e-bd39-7bcbbab0c781",
+      "code": "01076263",
+      "name_en": "DATABASE SYSTEMS",
+      "name_th": "ระบบฐานข้อมูล",
+      "hard_skills": [
+        {
+          "skill_id": "9930ce9a-512b-4515-b1ee-8d6f657e726a",
+          "skill_name_en": "Data Analysis",
+          "skill_name_th": "การวิเคราะห์ข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "c64679b3-cae2-4a99-a1f5-cd93513c5158",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "level": 2
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "2e25d9ef-1a11-4f71-bdd9-e21c91a80513",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "a35e907c-4ac7-483f-9d48-f91ae26cd76b",
+      "code": "01076311",
+      "name_en": "PROJECT 1",
+      "name_th": "โครงงาน 1",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "52a366b8-ff3a-4c6c-bcbb-e53efc3ba602",
+      "code": "01076312",
+      "name_en": "PROJECT 2",
+      "name_th": "โครงงาน 2",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "65aad3bf-314c-4ad3-9fc7-d7eade3878cf",
+      "code": "01076411",
+      "name_en": "MICRO ROBOT DEVELOPMENT",
+      "name_th": "การพัฒนาหุ่นยนต์ขนาดเล็ก",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "1c789632-69c7-4740-bc26-e9275a4d0347",
+      "code": "01076414",
+      "name_en": "INTRODUCTION TO AUTONOMOUS VEHICLE",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "19f0b946-d934-41cf-b609-03797af494ba",
+      "code": "01076418",
+      "name_en": "HIGH PERFORMANCE COMPUTING",
+      "name_th": "การประมวลผลสมรรถนะสูง",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "def3599f-cc77-4c96-aa0a-d95590a57301",
+      "code": "01076419",
+      "name_en": "INTERNET OF THINGS AND SMART SYSTEMS",
+      "name_th": "อินเตอร์เน็ตในทุกสิ่งและระบบอัจฉริยะ",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "3fbc103a-6437-4c7f-8379-23f183375c4b",
+      "code": "01076420",
+      "name_en": "ADVANCED DIGITAL DESIGN USING HDL",
+      "name_th": "การออกแบบดิจิตอลขั้นสูงโดยใช้เฮชดีแอล",
+      "hard_skills": [
+        {
+          "skill_id": "780d038d-e50d-4a79-ba44-367fd4c2e2bb",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 4
+        },
+        {
+          "skill_id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "skill_name_en": "Electronics",
+          "skill_name_th": "อิเล็กทรอนิกส์",
+          "level": 4
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "f58cc618-724c-455f-9dda-27ec0f01a430",
+      "code": "01076421",
+      "name_en": "EMBEDED SYSTEM DESIGN",
+      "name_th": "การออกแบบระบบสมองกลฝังตัว",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "b02ffdfa-a11f-41b6-a255-e24a10a92d02",
+      "code": "01076422",
+      "name_en": "IT ENTREPRENEURSHIP AND MANAGEMENT",
+      "name_th": "การประกอบการและการจัดการด้านเทคโนโลยีสารสนเทศ",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "2a222ed4-b0e1-4e60-a145-15b2c64228fd",
+      "code": "01076423",
+      "name_en": "STRATEGIC PLANNING USING BOARD AND CARD GAME",
+      "name_th": "การวางแผนเชิงกลยุทธ์โดยใช้บอร์ดและการ์ดเกม",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "12fc7a9c-73e4-48d4-bdb8-0b22dca839c8",
+      "code": "01076513",
+      "name_en": "COMPILER CONSTRUCTION",
+      "name_th": "การสร้างคอมไพเลอร์",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "e58076d0-f5bc-4930-8f9d-34578eea7752",
+      "code": "01076532",
+      "name_en": "MACHINE LEARNING",
+      "name_th": "การเรียนรู้ของเครื่อง",
+      "hard_skills": [
+        {
+          "skill_id": "9930ce9a-512b-4515-b1ee-8d6f657e726a",
+          "skill_name_en": "Data Analysis",
+          "skill_name_th": "การวิเคราะห์ข้อมูล",
+          "level": 3
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "425e1cc9-4c7e-4b92-91e5-3a01f44e69b6",
+      "code": "01076533",
+      "name_en": "DEEP LEARNING",
+      "name_th": "การเรียนรู้เชิงลึก",
+      "hard_skills": [
+        {
+          "skill_id": "9930ce9a-512b-4515-b1ee-8d6f657e726a",
+          "skill_name_en": "Data Analysis",
+          "skill_name_th": "การวิเคราะห์ข้อมูล",
+          "level": 3
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "3ee38d30-fc71-484d-b2bc-25d0a8f6f180",
+      "code": "01076558",
+      "name_en": "MICROSERVICES AND REST API DESIGN",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "36c90113-6aeb-41eb-b96c-35c84d326496",
+      "code": "01076559",
+      "name_en": "SOFTWARE ARCHITECTURE AND DESIGN",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "c4a33a07-708e-4085-8992-5defd66b6a90",
+          "skill_name_en": "API",
+          "skill_name_th": "เอพีไอ",
+          "level": 1
+        },
+        {
+          "skill_id": "e18d70fe-3896-4cfc-bd4b-0160e7a95e52",
+          "skill_name_en": "Architecture Design ",
+          "skill_name_th": "การออกแบบทางสถาปัตยกรรม",
+          "level": 2
+        },
+        {
+          "skill_id": "97edfea9-2373-458e-90e9-112024654840",
+          "skill_name_en": "Requirement Gathering",
+          "skill_name_th": "การรวบรวมความต้องการ",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "5e60bda7-137c-4fa1-8d6b-cb5c8253b4ab",
+      "code": "01076560",
+      "name_en": "SMART MOBILE APPLICATION DEVELOPMENT",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "3c267439-6fc5-49ee-98ec-7631e8127a74",
+      "code": "01076561",
+      "name_en": "WEB TECHNOLOGY",
+      "name_th": "เว็บเทคโนโลยี",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "7afb330c-c73e-4ed4-b8d5-ec6debc2f3c4",
+      "code": "01076564",
+      "name_en": "DESIGN AND ANALYSIS OF ALGORITHMS",
+      "name_th": "การออกแบบและวิเคราะห์อัลกอริทึม",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "3bef7b62-eb62-45bc-ab89-4126e8a5999e",
+      "code": "01076566",
+      "name_en": "MULTIMEDIA SYSTEMS",
+      "name_th": "ระบบสื่อผสม",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "5258cc3c-c577-459b-b9b7-fc97330b57ce",
+      "code": "01076567",
+      "name_en": "IMAGE PROCESSING",
+      "name_th": "การประมวลผลภาพ",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "e0d78a9a-ed5b-4c27-904f-6c761c0b2011",
+      "code": "01076568",
+      "name_en": "HUMAN COMPUTER INTERACTION",
+      "name_th": "การปฏิสัมพันธ์ระหว่างมนุษย์และคอมพิวเตอร์",
+      "hard_skills": [
+        {
+          "skill_id": "043559af-c471-481d-9f3a-a9bdefcfcd44",
+          "skill_name_en": "UX/UI Design",
+          "skill_name_th": "การออกแบบหน้าตาและประสบการณ์ของผู้ใช้งาน",
+          "level": 2
+        },
+        {
+          "skill_id": "d69e08c4-b808-4f16-93fb-f474f9aac594",
+          "skill_name_en": "UX/UI Design",
+          "skill_name_th": "การออกแบบหน้าตาและประสบการณ์ของผู้ใช้งาน",
+          "level": 4
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "398e8490-43a7-4e3a-afec-9620f35aca6c",
+      "code": "01076574",
+      "name_en": "DATA WAREHOUSE",
+      "name_th": "ดาต้าแวร์เฮาส์",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "4afd82da-d939-4f23-8dfd-b931963021ec",
+      "code": "01076577",
+      "name_en": "IT PROJECT MANAGEMENT",
+      "name_th": "การจัดการโครงการเทคโนโลยีสารสนเทศ\t",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "56c06f25-31f5-47d4-ad77-d92d33436c8c",
+      "code": "01076582",
+      "name_en": "ARTIFICIAL INTELLIGENCE",
+      "name_th": "ปัญญาประดิษฐ์",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "f72ab33f-ecc9-47c6-8189-acbd17eefba8",
+      "code": "01076583",
+      "name_en": "COMPUTER GRAPHICS",
+      "name_th": "คอมพิวเตอร์กราฟิกส์",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "fcee8d14-40ad-472b-ab74-925be148d45d",
+      "code": "01076584",
+      "name_en": "COMPUTER SIMULATION",
+      "name_th": "การจําลองระบบด้วยคอมพิวเตอร์",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "bf75d34e-fcc9-4cd7-85dd-08e08a5d7dd2",
+      "code": "01076585",
+      "name_en": "DATA MINING",
+      "name_th": "เหมืองข้อมูล",
+      "hard_skills": [
+        {
+          "skill_id": "65453578-9165-44bc-aa76-57f1b1e7939c",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "level": 1
+        },
+        {
+          "skill_id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "skill_name_en": "Data Visualization",
+          "skill_name_th": "้การสร้างภาพข้อมูล",
+          "level": 1
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "e8265dc1-1040-40d3-b470-49585e4a2a77",
+      "code": "01076589",
+      "name_en": "ADVANCED DATABASE SYSTEMS",
+      "name_th": "ระบบฐานข้อมูลขั้นสูง",
+      "hard_skills": [
+        {
+          "skill_id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "level": 2
+        },
+        {
+          "skill_id": "c64679b3-cae2-4a99-a1f5-cd93513c5158",
+          "skill_name_en": "Database Design",
+          "skill_name_th": "การออกแบบฐานข้อมูล",
+          "level": 3
+        },
+        {
+          "skill_id": "2e25d9ef-1a11-4f71-bdd9-e21c91a80513",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "level": 3
+        },
+        {
+          "skill_id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "skill_name_en": "Database Management",
+          "skill_name_th": "การจัดการฐานข้อมูล",
+          "level": 3
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "92a27786-4672-4fae-b48a-33862ea79432",
+      "code": "01076591",
+      "name_en": "CLOUD COMPUTING",
+      "name_th": "การประมวลผลคลาวด์",
+      "hard_skills": [
+        {
+          "skill_id": "c4be49b5-0956-423f-95c0-9c82d4509fe1",
+          "skill_name_en": "Cloud Computing",
+          "skill_name_th": "การประมวลผลแบบคลาวด์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "b933beb8-cc54-46fa-8a89-1935ac1c5bba",
+      "code": "01076592",
+      "name_en": "ENTREPRENEURSHIP AND THE ENGINEER",
+      "name_th": "ผู้ประกอบการกับวิศวกร\t",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "65016159-d13c-48ab-b516-87ddb4e9f544",
+      "code": "01076595",
+      "name_en": "INFORMATION STORAGE AND WEB SEARCH",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "088c2e18-e7ac-499c-88b4-aee8060b7ecc",
+      "code": "01076596",
+      "name_en": "SYSTEM REQUIREMENTS ENGINEERING",
+      "name_th": "วิศวกรรมความต้องการของระบบ",
+      "hard_skills": [
+        {
+          "skill_id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "82e67504-0bbd-40a6-83b5-155745a0181a",
+      "code": "01076597",
+      "name_en": "AUGMENTED REALITY",
+      "name_th": "โลกเสมือนผสานโลกจริง",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "74de4f67-c757-4ff7-a6bf-6d444b0bc5ed",
+      "code": "01076598",
+      "name_en": "INTRODUCTION TO DATA ANALYTICS",
+      "name_th": "การวิเคราะห์ข้อมูลเบื้องต้น",
+      "hard_skills": [
+        {
+          "skill_id": "15ed36da-e035-44d6-9c5d-892eb87c59cd",
+          "skill_name_en": "Data Analysis",
+          "skill_name_th": "การวิเคราะห์ข้อมูล",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "46003eb8-fb60-4a9e-a9a1-a37893223183",
+      "code": "01076599",
+      "name_en": "SOFTWARE TESTING AND QUALITY ASSURANCE",
+      "name_th": null,
+      "hard_skills": [
+        {
+          "skill_id": "78fe79fb-568b-443b-9cac-de8030b97c6e",
+          "skill_name_en": "Testing & Quality Assurance",
+          "skill_name_th": "การทดสอบ และ การประกันคุณภาพ",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "34b2d6d2-38ae-427a-8317-9fbd58c30d0b",
+      "code": "01076614",
+      "name_en": "DATA CENTER MANAGEMENT",
+      "name_th": "การจัดการศูนย์ข้อมูล",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "b9aaa441-a913-438f-923e-fe4e698af326",
+      "code": "01076627",
+      "name_en": "ICT SECURITY ARCHITECTURE AND MANAGEMENT",
+      "name_th": "สถาปัตยกรรมและการบริหารความมั่นคงไอซีที",
+      "hard_skills": [
+        {
+          "skill_id": "6594f550-d505-4fc8-af2e-3e5a3f51f2f9",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "ebbb19f3-2a8b-4e43-b38a-307997215a36",
+      "code": "01076628",
+      "name_en": "INFORMATION TECHNOLOGY SECURITY ASSESSMENT",
+      "name_th": "การประเมินความมั่นคงเทคโนโลยีสารสนเทศ",
+      "hard_skills": [
+        {
+          "skill_id": "6594f550-d505-4fc8-af2e-3e5a3f51f2f9",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "28b0301f-2877-4758-9cc0-bb1942c22380",
+      "code": "01076629",
+      "name_en": "BASIC PENETRATION TESTING AND ETHICAL HACKING",
+      "name_th": "การทดสอบเจาะระบบและการแฮกแบบมีจริยธรรมเบื้องต้น",
+      "hard_skills": [
+        {
+          "skill_id": "6594f550-d505-4fc8-af2e-3e5a3f51f2f9",
+          "skill_name_en": "Cybersecurity",
+          "skill_name_th": "ความปลอดภัยทางไซเบอร์",
+          "level": 2
+        }
+      ],
+      "soft_skills": []
+    },
+    {
+      "id": "6e4b7c83-b9ec-4082-aac0-77b7cb1edf0f",
+      "code": "01076630",
+      "name_en": "PRACTICAL NETWORK ANALYSIS",
+      "name_th": "การวิเคราะห์เครือข่ายเชิงปฏิบัติ",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "512306dd-2212-4476-9844-84ae09314079",
+      "code": "01076631",
+      "name_en": "SOFTWARE DEFINED NETWORKING",
+      "name_th": "ซอฟต์แวร์กําหนดเครือข่าย",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "51ed6418-8834-45b4-8b2e-af79b2b18bcb",
+      "code": "01076632",
+      "name_en": "WIRELESS NETWORK TECHNOLOGY",
+      "name_th": "เทคโนโลยีเครือข่ายไร้สาย",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "6194d66b-d8cc-44bc-b426-f2025e06ff2a",
+      "code": "01076633",
+      "name_en": "SERVICE AND SYSTEM VIRTUALIZATION",
+      "name_th": "ระบบและการบริการเสมือน",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "c510388e-0265-4589-a630-d1dd612d40a9",
+      "code": "01076634",
+      "name_en": "BIG DATA ARCHITECTURE",
+      "name_th": "สถาปัตยกรรมข้อมูลขนาดใหญ่",
+      "hard_skills": [],
+      "soft_skills": []
+    },
+    {
+      "id": "3e05cbc9-061d-49c9-bc86-aaaac2799e9e",
+      "code": "01076635",
+      "name_en": "IP SWITCHED NETWORKS",
+      "name_th": null,
+      "hard_skills": [],
+      "soft_skills": []
+    }
+  ]
+}

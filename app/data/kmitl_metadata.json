@@ -1,0 +1,35 @@
+{
+  "source": "KMITL Skill Mapping",
+  "graphql_url": "https://skill-mapping-hasura.aegis.aginix.tech/v1/graphql",
+  "curriculum_id": "01007",
+  "curriculum": {
+    "id": "01007",
+    "name_en": null,
+    "name_th": "วศ.บ.วิศวกรรมคอมพิวเตอร์",
+    "year": 2560,
+    "faculty": {
+      "id": "01",
+      "name_en": "Engineering",
+      "name_th": "วิศวกรรมศาสตร์"
+    },
+    "stats": {
+      "total_jobs": 19,
+      "total_hard_skills": 21
+    }
+  },
+  "crawled_at": "2026-02-20T02:50:19.999745",
+  "files": {
+    "jobs": "kmitl_jobs.json",
+    "hard_skills": "kmitl_hard_skills.json",
+    "soft_skills": "kmitl_soft_skills.json",
+    "subjects": "kmitl_subjects.json",
+    "job_fields": "kmitl_job_fields.json"
+  },
+  "data_summary": {
+    "total_jobs": 19,
+    "total_hard_skills": 21,
+    "total_soft_skills": 11,
+    "total_subjects": 108,
+    "total_job_fields": 5
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "source": "https://skill-mapping-hasura.aegis.aginix.tech/v1/graphql",
+    "curriculum_id": "01007",
+    "total_fields": 5,
+    "crawled_at": "2026-02-20T02:50:19.998613"
+  },
+  "job_fields": [
+    {
+      "id": "b07b438d-74c1-46de-a879-2c3ed61b8125",
+      "name_en": "DESIGN",
+      "name_th": null,
+      "specific_skills": [
+        {
+          "id": "043559af-c471-481d-9f3a-a9bdefcfcd44",
+          "name_en": "UX/UI Design",
+          "name_th": "การออกแบบหน้าตาและประสบการณ์ของผู้ใช้งาน"
+        }
+      ],
+      "job_groups": [
+        {
+          "id": "ca53e1db-5120-4a4a-a0db-4ba313a1c54c",
+          "name_en": "Design",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "ad4b40a9-583e-4235-b77b-842f24a54fe5",
+              "name_en": "UX/UI Designer",
+              "name_th": "นักออกแบบประสบการณ์และหน้าจอผู้ใช้"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total_jobs": 1,
+        "total_job_groups": 1,
+        "total_specific_skills": 1
+      }
+    },
+    {
+      "id": "907363cc-2e30-4a1f-a344-b5d371c6f2b9",
+      "name_en": "ELECTRONICS",
+      "name_th": null,
+      "specific_skills": [
+        {
+          "id": "ba885020-8ee4-46ff-b049-d080bdcb134e",
+          "name_en": "Electronics",
+          "name_th": "อิเล็กทรอนิกส์"
+        },
+        {
+          "id": "ca62a4fb-de58-4b25-8cb4-80de3b091460",
+          "name_en": "Microcontroller",
+          "name_th": "ความรู้เกี่ยวกับไมโครคอนโทรลเลอร์"
+        },
+        {
+          "id": "9d65ebb6-4478-44b5-a994-04f81f2f1317",
+          "name_en": "Network Infrastructure Design",
+          "name_th": "การวางโครงสร้างระบบเครือข่าย"
+        }
+      ],
+      "job_groups": [
+        {
+          "id": "fe8d44e9-2881-4f09-ad6e-81133dbbc9a7",
+          "name_en": "Technical and Engineering",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "40b467d4-a5f6-4af3-af98-98c4145b31e0",
+              "name_en": "Embedded System Engineer",
+              "name_th": "วิศวกรระบบฝังตัว"
+            },
+            {
+              "id": "1a081a2b-9eab-4f1b-bb74-cf08ac129bfa",
+              "name_en": "IoT Engineer",
+              "name_th": "วิศวกร ไอ โอ ที"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total_jobs": 2,
+        "total_job_groups": 1,
+        "total_specific_skills": 3
+      }
+    },
+    {
+      "id": "8b8bf0d7-2150-4295-9808-f893393c6498",
+      "name_en": "ENGINEERING",
+      "name_th": null,
+      "specific_skills": [
+        {
+          "id": "5eb90a58-ebac-4019-a688-e96ba1204cb5",
+          "name_en": "Architecture Design ",
+          "name_th": "การออกแบบทางสถาปัตยกรรม"
+        },
+        {
+          "id": "f6688e74-c4e1-44ae-9452-a0be202ba3aa",
+          "name_en": "Design Verification",
+          "name_th": "การตรวจสอบการออกแบบ"
+        },
+        {
+          "id": "e07e9645-cbda-4908-8a67-a2f999e4f963",
+          "name_en": "Requirement Gathering",
+          "name_th": "การรวบรวมความต้องการ"
+        },
+        {
+          "id": "35007cd2-fa23-41e5-ac89-e4d056b048c0",
+          "name_en": "Testing & Quality Assurance",
+          "name_th": "การทดสอบ และ การประกันคุณภาพ"
+        }
+      ],
+      "job_groups": [
+        {
+          "id": "62e6b698-f66c-4e82-a63b-e51db7658d89",
+          "name_en": "Optimization and Data Science",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "428a302e-3461-4660-850d-08c0c94869dc",
+              "name_en": "Data Engineer",
+              "name_th": "วิศวกรข้อมูล"
+            }
+          ]
+        },
+        {
+          "id": "40b4440f-17b2-4254-87a6-c948be4ab86e",
+          "name_en": "Quality Engineering",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "0b2d169f-4d63-494c-80a9-5f420230de62",
+              "name_en": "QA Engineer",
+              "name_th": "วิศวกรประกันคุณภาพ"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total_jobs": 2,
+        "total_job_groups": 2,
+        "total_specific_skills": 4
+      }
+    },
+    {
+      "id": "bc904eb6-de5c-44c3-81db-48689de7787c",
+      "name_en": "FINANCIAL SERVICES",
+      "name_th": null,
+      "specific_skills": [
+        {
+          "id": "15ed36da-e035-44d6-9c5d-892eb87c59cd",
+          "name_en": "Data Analysis",
+          "name_th": "การวิเคราะห์ข้อมูล"
+        }
+      ],
+      "job_groups": [
+        {
+          "id": "6d2125d8-e2e8-4103-98ec-ad4b9bbfefc5",
+          "name_en": "Digital and Data Analytics",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "995995b4-2bbb-4532-8ba1-3d624a0f1d5e",
+              "name_en": "Data Analytic",
+              "name_th": "นักวิเคราะห์ข้อมูล"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total_jobs": 1,
+        "total_job_groups": 1,
+        "total_specific_skills": 1
+      }
+    },
+    {
+      "id": "1abea167-dbc1-4bae-ae50-c989b6e24f1b",
+      "name_en": "INFOCOMM TECHNOLOGY",
+      "name_th": null,
+      "specific_skills": [
+        {
+          "id": "4a2da019-4deb-4f07-a85b-d3ec4f33f33c",
+          "name_en": "API",
+          "name_th": "เอพีไอ"
+        },
+        {
+          "id": "cb4267d2-02e5-44ab-9b76-9e40101ced5f",
+          "name_en": "Algorithms",
+          "name_th": " อัลกอริทึม"
+        },
+        {
+          "id": "ab856f4e-fc3b-4a34-98f6-a9f5829c5bb0",
+          "name_en": "Cloud Computing",
+          "name_th": "การประมวลผลแบบคลาวด์"
+        },
+        {
+          "id": "efd84aad-3bb4-47ef-aa84-c8e57c043230",
+          "name_en": "Coding",
+          "name_th": "การเขียนโปรแกรม"
+        },
+        {
+          "id": "20d840a9-72f0-4861-af38-3b469976a147",
+          "name_en": "Cybersecurity",
+          "name_th": "ความปลอดภัยทางไซเบอร์"
+        },
+        {
+          "id": "0dbf3239-c177-424b-971d-2e316dadb041",
+          "name_en": "Data Structures",
+          "name_th": "โครงสร้างข้อมูล"
+        },
+        {
+          "id": "33ede0d3-13dc-458d-b1fa-8979dd6a3ed1",
+          "name_en": "Data Visualization",
+          "name_th": "้การสร้างภาพข้อมูล"
+        },
+        {
+          "id": "2429a1a7-0e22-4e8d-8f8f-a184626d899f",
+          "name_en": "Database Design",
+          "name_th": "การออกแบบฐานข้อมูล"
+        },
+        {
+          "id": "5e2158a3-d5f0-4d0f-a98d-a412749b9493",
+          "name_en": "Database Management",
+          "name_th": "การจัดการฐานข้อมูล"
+        },
+        {
+          "id": "56417378-ac60-40a5-94e3-ee025ff52190",
+          "name_en": "Network Configuration",
+          "name_th": "การตั้งค่าเครือข่าย"
+        },
+        {
+          "id": "39c055b6-5345-451c-9438-fc3f0e3e6b45",
+          "name_en": "Software Analysis",
+          "name_th": "การวิเคราะห์ซอฟต์แวร์"
+        },
+        {
+          "id": "90fcae4a-a81d-4ab1-8d81-3b474083be2b",
+          "name_en": "Software Tools",
+          "name_th": "เครื่องมือซอฟต์แวร์"
+        }
+      ],
+      "job_groups": [
+        {
+          "id": "ca10a886-0832-469c-aef4-269d23ba00c3",
+          "name_en": "Cyber Security",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "40f5d83c-d3a5-4b94-b692-ed1f3d3de2b2",
+              "name_en": "Security Engineer",
+              "name_th": "วิศวกรความปลอดภัย"
+            }
+          ]
+        },
+        {
+          "id": "9e64688e-b063-4bda-9f24-c65e971e1a66",
+          "name_en": "Data and Artificial Intelligence",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "dda065a2-2d3f-4af5-967f-1aa6c05d4bde",
+              "name_en": "Machine Learning Engineer",
+              "name_th": "วิศวกรแมชชีนเลิร์นนิง"
+            }
+          ]
+        },
+        {
+          "id": "150008be-1fc0-4d71-a286-7cf58133eefb",
+          "name_en": "DevOps and Cloud Technology",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "b4da970e-ccee-4666-901e-9ea9266309e7",
+              "name_en": "DevOps Engineer",
+              "name_th": "วิศวกรเดฟออปส์"
+            }
+          ]
+        },
+        {
+          "id": "159fcf64-ba00-4e92-8524-cdecff17645d",
+          "name_en": "IT Storage and Data",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "ac453aeb-d22f-4eee-b082-adbfa1954a90",
+              "name_en": "Database Admin",
+              "name_th": "ผู้ดูแลฐานข้อมูล"
+            }
+          ]
+        },
+        {
+          "id": "056dfc45-f04a-4c30-b92a-7381bc774ab3",
+          "name_en": "Infrastructure",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "d179bd57-a0b3-4099-a900-2f93a316bff7",
+              "name_en": "System Engineer",
+              "name_th": "วิศวกรระบบ"
+            }
+          ]
+        },
+        {
+          "id": "e181e514-bf15-406a-9494-9b75cb7d4203",
+          "name_en": "Network Technology",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "dbb9bf40-03ae-4890-bced-19309c17bdbf",
+              "name_en": "Network Engineer",
+              "name_th": "วิศวกรเครือข่าย"
+            }
+          ]
+        },
+        {
+          "id": "308384c5-ad20-42ea-9f1c-11855c4167c3",
+          "name_en": "Operations and Support",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "96722cb7-e9f0-4177-86ed-90a6449602d1",
+              "name_en": "IT Support",
+              "name_th": "ไอทีซัพพอร์ท"
+            }
+          ]
+        },
+        {
+          "id": "45fe87e9-8719-4b51-a7c4-296241437642",
+          "name_en": "Software and Applications",
+          "name_th": null,
+          "jobs": [
+            {
+              "id": "c396e20a-dd9c-425d-b575-3c6a626e1a0d",
+              "name_en": "Back-End  Developer",
+              "name_th": "นักพัฒนาแบ็กเอนด์"
+            },
+            {
+              "id": "ddd9482b-7b5b-4f5d-a66b-1bf5d7fa598b",
+              "name_en": "Desktop Application Developer",
+              "name_th": "นักพัฒนาแอปพลิเคชั่นบนเดสก์ทอป"
+            },
+            {
+              "id": "015d3f33-439e-4beb-90db-dcd1fc7f78b5",
+              "name_en": "Front-End Developer",
+              "name_th": "นักพัฒนาฟรอนท์เอนด์"
+            },
+            {
+              "id": "100f7319-0c34-49b7-af82-cc471414ca48",
+              "name_en": "Full-Stack Developer",
+              "name_th": "นักพัฒนาโปรแกรมหน้าบ้าน และหลังบ้าน"
+            },
+            {
+              "id": "78f2b5f2-c18a-4034-9202-b27c6a39ded1",
+              "name_en": "Mobile Developer",
+              "name_th": "นักพัฒนาแอปพลิเคชั่นบนสมาร์ทโฟน"
+            },
+            {
+              "id": "d868c4a1-9b4a-4291-812d-377487cf9609",
+              "name_en": "Software engineer",
+              "name_th": "วิศวกรซอฟต์แวร์"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total_jobs": 13,
+        "total_job_groups": 8,
+        "total_specific_skills": 12
+      }
+    }
+  ]
+}

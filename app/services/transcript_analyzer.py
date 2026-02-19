@@ -113,17 +113,15 @@ class TranscriptAnalyzer:
         ]
 
         major_patterns = [
-            r"Major[:\s]*([A-Za-zก-๙\s\-]+?)(?:\n|COURSE)",
-            r"(?:Major|สาขา|สาขาวิชา)[:\s]+([A-Za-zก-๙\s\-]+?)(?:\n|Degree|Faculty|คณะ|COURSE)",
-            r"(?:Program|หลักสูตร)[:\s]+([A-Za-zก-๙\s\-]+?)(?:\n|Degree|Faculty)",
-            r"สาขา[:\s]*([ก-๙\s\-]+?)(?:\n|คณะ|ระดับ)"
+            r"Major\s+([A-Za-z\s\-]+?(?:\s*\([A-Za-z\s]+\))?)\s+COURSE",
+            r"Major\s+([A-Za-z\s\-]+?(?:\s*\([A-Za-z\s]+\))?)\s*\n",
+            r"(?:สาขา|สาขาวิชา)\s+([ก-๙\s\-]+?(?:\s*\([ก-๙\s]+\))?)\s*\n"
         ]
 
         degree_patterns = [
-            r"Degree[:\s]*([A-Za-zก-๙\s\.]+?)(?:\n|Major)",
-            r"(?:Degree|ระดับ|ระดับการศึกษา)[:\s]+([A-Za-zก-๙\s\.]+?)(?:\n|GPA|Faculty|Major)",
-            r"(?:Level|Education Level)[:\s]+([A-Za-zก-๙\s\.]+?)(?:\n|GPA)",
-            r"(?:Bachelor|Master|ปริญญา)[A-Za-zก-๙\s\.]+"
+            r"Degree\s+([A-Za-z\s\.]+?(?:\s*\([A-Za-z\s]+\))?)\s+Major",
+            r"Degree\s+([A-Za-z\s\.]+?(?:\s*\([A-Za-z\s]+\))?)\s*\n",
+            r"(?:ระดับ|ระดับการศึกษา)\s+([ก-๙\s\.]+?(?:\s*\([ก-๙\s]+\))?)\s*\n"
         ]
 
         gpa_patterns = [
@@ -358,4 +356,153 @@ class TranscriptAnalyzer:
             return {
                 "success": False,
                 "message": f"Error analyzing transcript: {str(e)}"
+            }
+
+    def analyze_debug(self, pdf_path: str) -> Dict:
+        """Debug analysis function with detailed information for teachers"""
+        try:
+            # Extract text from PDF
+            text = self.extract_text_from_pdf(pdf_path)
+            text_length = len(text)
+
+            # Check if scanned PDF
+            is_scanned = self.is_scanned_pdf(text)
+            if is_scanned:
+                return {
+                    "success": False,
+                    "message": "This PDF appears to be scanned. Scanned PDFs are not supported yet.",
+                    "debug_info": {
+                        "raw_text": text[:1000] + "..." if len(text) > 1000 else text,
+                        "text_length": text_length,
+                        "is_scanned": is_scanned
+                    }
+                }
+
+            # Parse student info with debug details
+            student_info = self.parse_student_info(text)
+            student_info_debug = {
+                "found": student_info is not None,
+                "name": student_info.name if student_info else None,
+                "student_id": student_info.student_id if student_info else None,
+                "major": student_info.major if student_info else None,
+                "degree": student_info.degree if student_info else None,
+                "gpa": student_info.cumulative_gpa if student_info else None,
+                "credits": student_info.total_credits if student_info else None
+            }
+
+            if not student_info:
+                return {
+                    "success": False,
+                    "message": "Unable to parse student information from transcript.",
+                    "debug_info": {
+                        "raw_text": text[:2000] + "..." if len(text) > 2000 else text,
+                        "text_length": text_length,
+                        "is_scanned": is_scanned,
+                        "student_info_debug": student_info_debug
+                    }
+                }
+
+            # Parse courses with debug details
+            courses = self.parse_courses(text)
+            courses_with_grade = [c for c in courses if c.grade != "IP"]
+            courses_in_progress = [c for c in courses if c.grade == "IP"]
+
+            # Get categorization details for ALL courses
+            categorization_details = []
+            for course in courses:  # Show all courses
+                categories = self.categorize_course(course.course_name)
+                matched_keywords = []
+
+                for category in categories:
+                    if category in self.COURSE_CATEGORIES:
+                        for keyword in self.COURSE_CATEGORIES[category]:
+                            if keyword in course.course_name.upper():
+                                matched_keywords.append(keyword)
+                                break
+
+                categorization_details.append({
+                    "course_code": course.course_code,
+                    "course_name": course.course_name,
+                    "grade": course.grade,
+                    "credits": course.credits,
+                    "categories": categories,
+                    "matched_keywords": matched_keywords
+                })
+
+            if not courses:
+                return {
+                    "success": False,
+                    "message": "Unable to parse courses from transcript.",
+                    "debug_info": {
+                        "raw_text": text[:2000] + "..." if len(text) > 2000 else text,
+                        "text_length": text_length,
+                        "is_scanned": is_scanned,
+                        "student_info_debug": student_info_debug
+                    }
+                }
+
+            # Calculate domain scores
+            domain_scores = self.calculate_domain_scores(courses)
+
+            # Get top strengths
+            strengths = self.get_top_strengths(domain_scores)
+
+            # Get job recommendations
+            job_recommendations = self.get_job_recommendations(strengths)
+
+            # Prepare summary
+            summary = {
+                "total_courses": len(courses),
+                "total_credits": student_info.total_credits,
+                "cumulative_gpa": student_info.cumulative_gpa
+            }
+
+            # Prepare parsed courses (after regex, before categorization)
+            parsed_courses_raw = []
+            for course in courses:
+                parsed_courses_raw.append({
+                    "course_code": course.course_code,
+                    "course_name": course.course_name,
+                    "credits": course.credits,
+                    "grade": course.grade
+                })
+
+            # Prepare debug info
+            debug_info = {
+                "raw_text": text,  # Full raw text
+                "text_length": text_length,
+                "is_scanned": is_scanned,
+                "student_info_debug": student_info_debug,
+                "parsed_courses_raw": parsed_courses_raw,  # Courses after regex parsing
+                "courses_stats": {
+                    "total_courses": len(courses),
+                    "courses_with_grade": len(courses_with_grade),
+                    "courses_in_progress": len(courses_in_progress)
+                },
+                "categorization_details": categorization_details,
+                "regex_patterns_info": {
+                    "total_categories": len(self.COURSE_CATEGORIES),
+                    "categories": list(self.COURSE_CATEGORIES.keys())
+                }
+            }
+
+            return {
+                "success": True,
+                "student_info": student_info.dict(),
+                "courses": [course.dict() for course in courses],
+                "domain_scores": domain_scores,
+                "strengths": strengths,
+                "job_recommendations": job_recommendations,
+                "summary": summary,
+                "debug_info": debug_info
+            }
+
+        except Exception as e:
+            return {
+                "success": False,
+                "message": f"Error analyzing transcript: {str(e)}",
+                "debug_info": {
+                    "error": str(e),
+                    "error_type": type(e).__name__
+                }
             }
