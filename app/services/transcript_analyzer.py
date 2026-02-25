@@ -136,12 +136,78 @@ class TranscriptAnalyzer:
     # ------------------------------------------------------------------
 
     def extract_text_from_pdf(self, pdf_path: str) -> str:
+        """Extract full-page text (used for student info parsing)."""
         text = ""
         with pdfplumber.open(pdf_path) as pdf:
             for page in pdf.pages:
                 page_text = page.extract_text()
                 if page_text:
                     text += page_text + "\n"
+        return text
+
+    def _join_course_continuations(self, column_text: str) -> str:
+        """
+        Merge wrapped course-name continuation lines into their course line.
+
+        When a PDF uses a two-column layout, pdfplumber sometimes puts the
+        remainder of a long course name on the very next line, e.g.:
+            01076032 ELEMENTARY DIFFERENTIAL EQUATIONS AND 3 B
+            LINEAR ALGEBRA
+        This method detects those pure-uppercase continuation lines and
+        inserts them back into the course name before the credit/grade.
+        """
+        lines = column_text.split('\n')
+        result = []
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            if re.match(r'^\d{8}\s', line):
+                # Collect consecutive pure-uppercase continuation lines
+                j = i + 1
+                while j < len(lines):
+                    next_line = lines[j].strip()
+                    if next_line and re.match(r'^[A-Z][A-Z ]+$', next_line):
+                        j += 1
+                    else:
+                        break
+
+                if j > i + 1:
+                    continuation = ' '.join(lines[k].strip() for k in range(i + 1, j))
+                    # Insert continuation before the trailing credit+grade
+                    end_match = re.search(r'(\s+\d\s+[ABCDFSWU][+\-]?\s*)$', line)
+                    if not end_match:
+                        end_match = re.search(r'(\s+\d\s*)$', line)
+                    if end_match:
+                        pos = end_match.start()
+                        line = line[:pos] + ' ' + continuation + line[pos:]
+                    else:
+                        line = line + ' ' + continuation
+                    i = j
+                else:
+                    i += 1
+            else:
+                i += 1
+            result.append(line)
+        return '\n'.join(result)
+
+    def _extract_text_for_courses(self, pdf_path: str) -> str:
+        """
+        Extract text column-by-column so that continuation lines stay with
+        their course, then join them into complete course name lines.
+        Falls back to full-page extraction for single-column PDFs.
+        """
+        text = ""
+        with pdfplumber.open(pdf_path) as pdf:
+            for page in pdf.pages:
+                width = page.width
+                height = page.height
+                mid = width / 2
+
+                left_text = page.within_bbox((0, 0, mid, height)).extract_text() or ""
+                right_text = page.within_bbox((mid, 0, width, height)).extract_text() or ""
+
+                text += self._join_course_continuations(left_text) + "\n"
+                text += self._join_course_continuations(right_text) + "\n"
         return text
 
     def is_scanned_pdf(self, text: str) -> bool:
@@ -215,8 +281,9 @@ class TranscriptAnalyzer:
         courses = []
         seen_courses = set()
 
-        pattern_with_grade = r"(\d{8})\s+([A-Z][A-Z\s\&\-\.\/\(\)0-9]+?)\s+(\d)\s+([ABCDFSWU][+\-]?)(?=\s|$)"
-        pattern_no_grade = r"(\d{8})\s+([A-Z][A-Z\s\&\-\.\/\(\)0-9]+?)\s+(\d)(?=\s*(?:\n|GPS|$))"
+        # (?!\d{8}) prevents the course name from consuming the next course code
+        pattern_with_grade = r"(\d{8})\s+([A-Z](?:(?!\d{8})[A-Z\s\&\-\.\/\(\)0-9])*?)\s+(\d)\s+([ABCDFSWU][+\-]?)(?=\s|$)"
+        pattern_no_grade = r"(\d{8})\s+([A-Z](?:(?!\d{8})[A-Z\s\&\-\.\/\(\)0-9])*?)\s+(\d)(?=\s*(?:\n|\d{8}|GPS|GPA|$))"
 
         for match in re.finditer(pattern_with_grade, text):
             course_code = match.group(1)
@@ -586,7 +653,8 @@ class TranscriptAnalyzer:
                     "message": "Unable to parse student information from transcript."
                 }
 
-            courses = self.parse_courses(text)
+            course_text = self._extract_text_for_courses(pdf_path)
+            courses = self.parse_courses(course_text)
             if not courses:
                 return {
                     "success": False,
@@ -635,6 +703,7 @@ class TranscriptAnalyzer:
             text = self.extract_text_from_pdf(pdf_path)
             text_length = len(text)
             is_scanned = self.is_scanned_pdf(text)
+            course_text = self._extract_text_for_courses(pdf_path)
 
             if is_scanned:
                 return {
@@ -670,7 +739,7 @@ class TranscriptAnalyzer:
                     }
                 }
 
-            courses = self.parse_courses(text)
+            courses = self.parse_courses(course_text)
             courses_with_grade = [c for c in courses if c.grade != "IP"]
             courses_in_progress = [c for c in courses if c.grade == "IP"]
 
